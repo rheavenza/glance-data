@@ -5,7 +5,7 @@
   "stories": [
     {
       "category": "System",
-      "title": "Daily briefing integration is ready",
+      "title": "Daily briefing GitHub update test passed",
       "summary": "Glance is successfully reading briefing data from GitHub.",
       "why": "This verifies the ChatGPT → GitHub → Glance data path.",
       "url": ""
