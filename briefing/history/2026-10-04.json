@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-04T19:00:00+07:00",
+  "title": "Daily Briefing",
+  "stories": [
+    {
+      "category": "System",
+      "title": "Daily briefing integration is ready",
+      "summary": "Glance is successfully reading briefing data from GitHub.",
+      "why": "This verifies the ChatGPT → GitHub → Glance data path.",
+      "url": ""
+    }
+  ]
+}
