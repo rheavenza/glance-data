@@ -1,42 +1,47 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-04T20:18:00+07:00",
+  "generated_at": "2026-10-05T19:15:00+07:00",
   "title": "Daily Briefing",
   "stories": [
     {
       "category": "Vietnam",
       "title": "Vietnam's Q3 GDP growth reaches 9.95%",
-      "summary": "Vietnam's economy expanded 9.95% year over year in the third quarter, its fastest quarterly growth in four years, supported by strong exports.",
-      "why": "The acceleration is a major signal for Vietnam's economy and could influence investment, jobs, rates, and the country's full-year growth outlook.",
-      "url": "https://www.reuters.com/world/asia-pacific/vietnam-q3-economic-growth-up-995-yy-2026-10-03/"
+      "summary": "Vietnam's economy expanded 9.95% year over year in the third quarter, its fastest quarterly growth in four years, supported by strong exports and infrastructure investment.",
+      "why": "The acceleration is a major signal for Vietnam's economy and could affect investment, inflation, rates, and the full-year growth outlook.",
+      "url": "https://www.reuters.com/world/asia-pacific/vietnam-q3-economic-growth-up-995-yy-2026-10-03/",
+      "image_url": ""
     },
     {
       "category": "AI",
-      "title": "AI spending race raises questions about when productivity will catch up",
-      "summary": "A Reuters analysis says AI infrastructure investment is scaling at extraordinary levels while economists and investors debate whether productivity and new revenue will arrive quickly enough to justify the spending.",
-      "why": "The gap between infrastructure spending and realized productivity is becoming one of the key questions determining whether the AI boom remains sustainable.",
-      "url": "https://www.reuters.com/business/retail-consumer/ais-race-transform-world-before-money-runs-out-2026-10-03/"
+      "title": "Norway plans a temporary ban on AI glasses in some public places",
+      "summary": "Norway's government said it plans to propose a temporary ban on AI glasses in selected public places as lawmakers respond to privacy and misuse concerns around increasingly capable wearable AI devices.",
+      "why": "This is an early example of governments moving from general AI rules toward restrictions on a specific consumer hardware category.",
+      "url": "https://www.reuters.com/technology/norway-propose-temporary-ban-ai-glasses-some-public-places-2026-10-05/",
+      "image_url": ""
     },
     {
       "category": "Gaming",
-      "title": "Capcom plans to use AI to speed up parts of game development",
-      "summary": "Capcom says it plans to use AI to improve development workflows around its RE Engine while maintaining its position that AI-generated content will not be used directly in its games.",
-      "why": "It is a useful example of a major studio separating AI-assisted production tooling from AI-generated game content, a distinction likely to shape how studios adopt the technology.",
-      "url": "https://www.engadget.com/2276597/capcom-plans-to-use-ai-to-speed-up-the-game-development-process/"
+      "title": "Gears of War: E-Day launches October 6 on Xbox and PC",
+      "summary": "Microsoft's next major Gears release arrives October 6 for Xbox Series X|S and PC, with Game Pass and Xbox Play Anywhere support.",
+      "why": "It is one of October's biggest releases and a major test for Xbox's first-party lineup after a turbulent year for its gaming business.",
+      "url": "https://news.xbox.com/en-us/2026/10/02/next-week-on-xbox-new-games-for-october-5-to-9/",
+      "image_url": ""
     },
     {
       "category": "Linux / PC",
-      "title": "NVIDIA shares new Wayland vs. X.Org latency testing",
-      "summary": "NVIDIA presented latency testing comparing Wayland and X.Org at XDC 2026 alongside work on its Display Config Server project.",
-      "why": "Display latency remains an important issue for Linux desktop and gaming users, and NVIDIA's work gives a clearer picture of how the modern Wayland stack is progressing.",
-      "url": "https://www.phoronix.com/news/NVIDIA-Wayland-Xorg-Latency"
+      "title": "NVIDIA publishes new Wayland vs. X.Org latency testing",
+      "summary": "NVIDIA presented latency measurements comparing Wayland and X.Org at XDC 2026 while also discussing its Display Config Server work for Linux display management.",
+      "why": "Wayland latency and NVIDIA behavior remain especially relevant for Linux gaming and desktop users, and the testing gives more concrete data on the transition away from X.Org.",
+      "url": "https://www.phoronix.com/news/NVIDIA-Wayland-Xorg-Latency",
+      "image_url": ""
     },
     {
-      "category": "Science / Space",
-      "title": "Saturn is at opposition as October skywatching begins",
-      "summary": "NASA's October skywatching guide highlights Saturn at opposition, the Orionid meteor shower, and several close Moon encounters with bright objects during the month.",
-      "why": "Saturn is currently at one of its best observing opportunities of the year, making this a particularly good time for telescope viewing.",
-      "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-october-2026-skywatching-tips-from-nasa/"
+      "category": "Science",
+      "title": "NASA studies thunderstorm-like clouds spawned by intense wildfires",
+      "summary": "NASA's INSPYRE campaign collected aircraft and ground measurements of pyrocumulonimbus clouds, which can inject wildfire smoke tens of thousands of feet into the atmosphere and even into the stratosphere.",
+      "why": "Understanding these fire-generated storms could improve wildfire forecasting and climate models by showing how extreme fires reshape weather and transport smoke.",
+      "url": "https://science.nasa.gov/earth/natural-disasters/wildfires/nasa-campaign-explores-clouds-spawned-by-wildfires/",
+      "image_url": ""
     }
   ]
 }
