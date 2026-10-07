@@ -1,46 +1,46 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-05T19:15:00+07:00",
+  "generated_at": "2026-10-07T08:49:58+07:00",
   "title": "Daily Briefing",
   "stories": [
     {
-      "category": "Vietnam",
-      "title": "Vietnam's Q3 GDP growth reaches 9.95%",
-      "summary": "Vietnam's economy expanded 9.95% year over year in the third quarter, its fastest quarterly growth in four years, supported by strong exports and infrastructure investment.",
-      "why": "The acceleration is a major signal for Vietnam's economy and could affect investment, inflation, rates, and the full-year growth outlook.",
-      "url": "https://www.reuters.com/world/asia-pacific/vietnam-q3-economic-growth-up-995-yy-2026-10-03/",
-      "image_url": ""
-    },
-    {
-      "category": "AI",
-      "title": "Norway plans a temporary ban on AI glasses in some public places",
-      "summary": "Norway's government said it plans to propose a temporary ban on AI glasses in selected public places as lawmakers respond to privacy and misuse concerns around increasingly capable wearable AI devices.",
-      "why": "This is an early example of governments moving from general AI rules toward restrictions on a specific consumer hardware category.",
-      "url": "https://www.reuters.com/technology/norway-propose-temporary-ban-ai-glasses-some-public-places-2026-10-05/",
+      "category": "AI / Cybersecurity",
+      "title": "Anthropic expands access to its strongest models for vetted security teams",
+      "summary": "Anthropic expanded its Cyber Verification Program into three access tiers for qualifying security professionals. The company says Project Glasswing partners found at least 129,000 verified software vulnerabilities from April through July, including more than 33,000 rated critical or high severity.",
+      "why": "Frontier AI is becoming a powerful defensive security tool, while providers are experimenting with controlled access for advanced capabilities.",
+      "url": "https://www.anthropic.com/news/cyber-verification-program",
       "image_url": ""
     },
     {
       "category": "Gaming",
-      "title": "Gears of War: E-Day launches October 6 on Xbox and PC",
-      "summary": "Microsoft's next major Gears release arrives October 6 for Xbox Series X|S and PC, with Game Pass and Xbox Play Anywhere support.",
-      "why": "It is one of October's biggest releases and a major test for Xbox's first-party lineup after a turbulent year for its gaming business.",
-      "url": "https://news.xbox.com/en-us/2026/10/02/next-week-on-xbox-new-games-for-october-5-to-9/",
+      "title": "Gears of War: E-Day launches worldwide",
+      "summary": "The Coalition's Gears of War: E-Day launched October 6 on Xbox Series X|S, Xbox PC, Steam and Game Pass. The prequel returns to the opening hours of Emergence Day with Marcus Fenix and Dom Santiago and is rebuilt on Unreal Engine 5.",
+      "why": "It is one of October's biggest PC and Xbox releases and a major first-party launch for Microsoft.",
+      "url": "https://news.xbox.com/en-us/2026/10/06/gears-of-war-e-day-surviving-the-first-night-of-emergence/",
       "image_url": ""
     },
     {
-      "category": "Linux / PC",
-      "title": "NVIDIA publishes new Wayland vs. X.Org latency testing",
-      "summary": "NVIDIA presented latency measurements comparing Wayland and X.Org at XDC 2026 while also discussing its Display Config Server work for Linux display management.",
-      "why": "Wayland latency and NVIDIA behavior remain especially relevant for Linux gaming and desktop users, and the testing gives more concrete data on the transition away from X.Org.",
-      "url": "https://www.phoronix.com/news/NVIDIA-Wayland-Xorg-Latency",
+      "category": "Vietnam / Economy",
+      "title": "Vietnamese banks plan nearly $7 billion in share sales",
+      "summary": "Vietnamese banks are planning nearly $7 billion in share sales as rapid credit growth and an economy expanding at nearly 10% increase capital needs. Foreign ownership and offshore borrowing rules have also been partly loosened.",
+      "why": "The fundraising shows both the strength and pressure created by Vietnam's rapid growth, while giving international investors a wider opening into the banking sector.",
+      "url": "https://www.reuters.com/business/finance/vietnams-banks-tap-investors-7-billion-economy-runs-red-hot-2026-10-07/",
       "image_url": ""
     },
     {
-      "category": "Science",
-      "title": "NASA studies thunderstorm-like clouds spawned by intense wildfires",
-      "summary": "NASA's INSPYRE campaign collected aircraft and ground measurements of pyrocumulonimbus clouds, which can inject wildfire smoke tens of thousands of feet into the atmosphere and even into the stratosphere.",
-      "why": "Understanding these fire-generated storms could improve wildfire forecasting and climate models by showing how extreme fires reshape weather and transport smoke.",
-      "url": "https://science.nasa.gov/earth/natural-disasters/wildfires/nasa-campaign-explores-clouds-spawned-by-wildfires/",
+      "category": "AI / PC Hardware",
+      "title": "AMD plans a substantial chip-supply increase for 2027",
+      "summary": "AMD CEO Lisa Su said the company plans to substantially increase chip supply in 2027 as AI demand grows, while working with major Asian manufacturing and memory suppliers to expand capacity.",
+      "why": "AMD is Nvidia's main large-scale GPU challenger, so higher supply could improve competition and availability across AI infrastructure.",
+      "url": "https://www.reuters.com/world/asia-pacific/amd-plans-substantially-increase-supply-2027-ceo-says-2026-10-06/",
+      "image_url": ""
+    },
+    {
+      "category": "Open Source / Security",
+      "title": "AI-generated vulnerability spam is straining open-source bug bounty programs",
+      "summary": "Google has temporarily paused monetary rewards in an open-source vulnerability program after reviewers were overwhelmed by automated submissions, many containing invalid or hallucinated vulnerability claims.",
+      "why": "Cheap automated reports impose a new review burden on maintainers and show why AI-assisted security research needs better verification and reputation mechanisms.",
+      "url": "https://www.techspot.com/news/114102-google-pauses-bug-bounties-open-source-because-ai.html",
       "image_url": ""
     }
   ]
