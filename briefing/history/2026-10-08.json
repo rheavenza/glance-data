@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-08T08:46:42+07:00",
+  "title": "Daily Briefing",
+  "stories": [
+    {
+      "category": "Gaming / AI",
+      "title": "Google and Unity unveil Playground and Unity Spark for prompt-based game creation",
+      "summary": "On October 7, Google launched Playground, an experimental browser platform that lets US adults create, modify and share playable games through text prompts. Unity announced Unity Spark, a more advanced creation experience with high-fidelity 3D and Unity runtime support, planned for later in 2026.",
+      "why": "AI-assisted game prototyping is moving from code generation to playable experiences. It could dramatically speed up experimentation for indie developers, though the quality and limitations of these tools still need hands-on testing.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "image_url": ""
+    },
+    {
+      "category": "AI / Developer Tech",
+      "title": "Microsoft brings local coding AI and secure agent containers to Windows",
+      "summary": "On October 7, Microsoft announced local execution of its MAI Code 1.1 Flash coding model, general availability of Microsoft Execution Containers for isolating AI agents, and new RTX Spark-powered PCs. Microsoft also outlined local-model routing for GitHub Copilot in an experimental preview later this month.",
+      "why": "This advances a hybrid model in which AI coding agents can run on personal hardware with explicit file and network boundaries, potentially reducing cloud costs and making sensitive workflows easier to contain.",
+      "url": "https://blogs.windows.com/windowsexperience/2026/10/07/building-windows-for-hybrid-intelligence/",
+      "image_url": "https://www.tomshardware.fr/content/uploads/sites/3/2026/06/microsoft-surface-ultra-1200x675.png"
+    },
+    {
+      "category": "Vietnam",
+      "title": "Vietnam central bank says inflation is above target but under control",
+      "summary": "On October 7, State Bank of Vietnam Deputy Governor Pham Thanh Ha said September's higher annual inflation is putting pressure on monetary policy for the remainder of 2026, while maintaining that prices remain under control.",
+      "why": "After Vietnam's exceptionally strong third-quarter growth, inflation adds pressure to the balance between affordable credit, price stability and continued economic expansion.",
+      "url": "https://www.reuters.com/world/asia-pacific/vietnams-central-bank-says-inflation-is-higher-than-targeted-remains-under-2026-10-07/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Ng%C3%A2n_h%C3%A0ng_Nh%C3%A0_n%C6%B0%E1%BB%9Bc_-_2022-09-02_01.jpg"
+    },
+    {
+      "category": "Science",
+      "title": "2026 Chemistry Nobel honors breakthroughs in molecular handedness",
+      "summary": "On October 7, Henri B. Kagan and Kenso Soai won the Nobel Prize in Chemistry for discoveries in asymmetric organic synthesis. Their work showed how reactions can strongly favor one of two mirror-image molecular forms.",
+      "why": "Controlling molecular chirality is essential for making medicines and other chemicals precisely, and the discoveries also shed light on how life's preference for one molecular handedness might arise.",
+      "url": "https://www.kva.se/en/news/the-nobel-prize-in-chemistry-2026/",
+      "image_url": "https://www.kva.se/app/uploads/2026/10/nobel2025_pkChemistry1_photoPatrikLundin.jpg"
+    },
+    {
+      "category": "Linux / PC Gaming",
+      "title": "NVIDIA Linux driver 615.78.08 targets Proton latency and Wayland stability",
+      "summary": "NVIDIA released Linux driver 615.78.08 on October 7. It adds VK_NV_low_latency2 revision 3 support for potentially smoother VKD3D-Proton frame generation, fixes graphical corruption in The Last of Us Part II and addresses a possible Vulkan HDR crash under Wayland.",
+      "why": "These are directly relevant improvements for NVIDIA-equipped Linux gaming systems, particularly Direct3D 12 titles played through Steam Proton and modern Wayland desktops.",
+      "url": "https://www.phoronix.com/news/NVIDIA-615.78.08-Linux",
+      "image_url": "https://assets.ubuntu.com/v1/a684c313-26_nvidia_gtc_lockup_horiz_wht_rgb_1.png"
+    }
+  ]
+}
