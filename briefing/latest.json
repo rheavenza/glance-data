@@ -1,47 +1,47 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-07T08:49:58+07:00",
+  "generated_at": "2026-10-08T08:46:42+07:00",
   "title": "Daily Briefing",
   "stories": [
     {
-      "category": "AI / Cybersecurity",
-      "title": "Anthropic expands access to its strongest models for vetted security teams",
-      "summary": "Anthropic expanded its Cyber Verification Program into three access tiers for qualifying security professionals. The company says Project Glasswing partners found at least 129,000 verified software vulnerabilities from April through July, including more than 33,000 rated critical or high severity.",
-      "why": "Frontier AI is becoming a powerful defensive security tool, while providers are experimenting with controlled access for advanced capabilities.",
-      "url": "https://www.anthropic.com/news/cyber-verification-program",
+      "category": "Gaming / AI",
+      "title": "Google and Unity unveil Playground and Unity Spark for prompt-based game creation",
+      "summary": "On October 7, Google launched Playground, an experimental browser platform that lets US adults create, modify and share playable games through text prompts. Unity announced Unity Spark, a more advanced creation experience with high-fidelity 3D and Unity runtime support, planned for later in 2026.",
+      "why": "AI-assisted game prototyping is moving from code generation to playable experiences. It could dramatically speed up experimentation for indie developers, though the quality and limitations of these tools still need hands-on testing.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
       "image_url": ""
     },
     {
-      "category": "Gaming",
-      "title": "Gears of War: E-Day launches worldwide",
-      "summary": "The Coalition's Gears of War: E-Day launched October 6 on Xbox Series X|S, Xbox PC, Steam and Game Pass. The prequel returns to the opening hours of Emergence Day with Marcus Fenix and Dom Santiago and is rebuilt on Unreal Engine 5.",
-      "why": "It is one of October's biggest PC and Xbox releases and a major first-party launch for Microsoft.",
-      "url": "https://news.xbox.com/en-us/2026/10/06/gears-of-war-e-day-surviving-the-first-night-of-emergence/",
-      "image_url": ""
+      "category": "AI / Developer Tech",
+      "title": "Microsoft brings local coding AI and secure agent containers to Windows",
+      "summary": "On October 7, Microsoft announced local execution of its MAI Code 1.1 Flash coding model, general availability of Microsoft Execution Containers for isolating AI agents, and new RTX Spark-powered PCs. Microsoft also outlined local-model routing for GitHub Copilot in an experimental preview later this month.",
+      "why": "This advances a hybrid model in which AI coding agents can run on personal hardware with explicit file and network boundaries, potentially reducing cloud costs and making sensitive workflows easier to contain.",
+      "url": "https://blogs.windows.com/windowsexperience/2026/10/07/building-windows-for-hybrid-intelligence/",
+      "image_url": "https://www.tomshardware.fr/content/uploads/sites/3/2026/06/microsoft-surface-ultra-1200x675.png"
     },
     {
-      "category": "Vietnam / Economy",
-      "title": "Vietnamese banks plan nearly $7 billion in share sales",
-      "summary": "Vietnamese banks are planning nearly $7 billion in share sales as rapid credit growth and an economy expanding at nearly 10% increase capital needs. Foreign ownership and offshore borrowing rules have also been partly loosened.",
-      "why": "The fundraising shows both the strength and pressure created by Vietnam's rapid growth, while giving international investors a wider opening into the banking sector.",
-      "url": "https://www.reuters.com/business/finance/vietnams-banks-tap-investors-7-billion-economy-runs-red-hot-2026-10-07/",
-      "image_url": ""
+      "category": "Vietnam",
+      "title": "Vietnam central bank says inflation is above target but under control",
+      "summary": "On October 7, State Bank of Vietnam Deputy Governor Pham Thanh Ha said September's higher annual inflation is putting pressure on monetary policy for the remainder of 2026, while maintaining that prices remain under control.",
+      "why": "After Vietnam's exceptionally strong third-quarter growth, inflation adds pressure to the balance between affordable credit, price stability and continued economic expansion.",
+      "url": "https://www.reuters.com/world/asia-pacific/vietnams-central-bank-says-inflation-is-higher-than-targeted-remains-under-2026-10-07/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Ng%C3%A2n_h%C3%A0ng_Nh%C3%A0_n%C6%B0%E1%BB%9Bc_-_2022-09-02_01.jpg"
     },
     {
-      "category": "AI / PC Hardware",
-      "title": "AMD plans a substantial chip-supply increase for 2027",
-      "summary": "AMD CEO Lisa Su said the company plans to substantially increase chip supply in 2027 as AI demand grows, while working with major Asian manufacturing and memory suppliers to expand capacity.",
-      "why": "AMD is Nvidia's main large-scale GPU challenger, so higher supply could improve competition and availability across AI infrastructure.",
-      "url": "https://www.reuters.com/world/asia-pacific/amd-plans-substantially-increase-supply-2027-ceo-says-2026-10-06/",
-      "image_url": ""
+      "category": "Science",
+      "title": "2026 Chemistry Nobel honors breakthroughs in molecular handedness",
+      "summary": "On October 7, Henri B. Kagan and Kenso Soai won the Nobel Prize in Chemistry for discoveries in asymmetric organic synthesis. Their work showed how reactions can strongly favor one of two mirror-image molecular forms.",
+      "why": "Controlling molecular chirality is essential for making medicines and other chemicals precisely, and the discoveries also shed light on how life's preference for one molecular handedness might arise.",
+      "url": "https://www.kva.se/en/news/the-nobel-prize-in-chemistry-2026/",
+      "image_url": "https://www.kva.se/app/uploads/2026/10/nobel2025_pkChemistry1_photoPatrikLundin.jpg"
     },
     {
-      "category": "Open Source / Security",
-      "title": "AI-generated vulnerability spam is straining open-source bug bounty programs",
-      "summary": "Google has temporarily paused monetary rewards in an open-source vulnerability program after reviewers were overwhelmed by automated submissions, many containing invalid or hallucinated vulnerability claims.",
-      "why": "Cheap automated reports impose a new review burden on maintainers and show why AI-assisted security research needs better verification and reputation mechanisms.",
-      "url": "https://www.techspot.com/news/114102-google-pauses-bug-bounties-open-source-because-ai.html",
-      "image_url": ""
+      "category": "Linux / PC Gaming",
+      "title": "NVIDIA Linux driver 615.78.08 targets Proton latency and Wayland stability",
+      "summary": "NVIDIA released Linux driver 615.78.08 on October 7. It adds VK_NV_low_latency2 revision 3 support for potentially smoother VKD3D-Proton frame generation, fixes graphical corruption in The Last of Us Part II and addresses a possible Vulkan HDR crash under Wayland.",
+      "why": "These are directly relevant improvements for NVIDIA-equipped Linux gaming systems, particularly Direct3D 12 titles played through Steam Proton and modern Wayland desktops.",
+      "url": "https://www.phoronix.com/news/NVIDIA-615.78.08-Linux",
+      "image_url": "https://assets.ubuntu.com/v1/a684c313-26_nvidia_gtc_lockup_horiz_wht_rgb_1.png"
     }
   ]
 }
