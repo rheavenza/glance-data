@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-09T08:22:02+07:00",
+  "title": "Daily Briefing",
+  "stories": [
+    {
+      "category": "AI / Developer Tech",
+      "title": "Google launches a universal Gemini agent for workplace tasks",
+      "summary": "On October 8, Google Cloud introduced a Gemini agent that can plan and carry out work across Gmail, Docs, Sheets, Calendar, Microsoft 365 and Slack. It can generate content, write code, connect to business systems and coordinate specialized sub-agents. The initial rollout is aimed at enterprise customers.",
+      "why": "The competition is shifting from chatbots that answer prompts to agents that execute multi-step work. For developers, the notable details are code execution, third-party integrations, model routing and enterprise permission controls.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/",
+      "image_url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Gemini.max-2000x2000.png"
+    },
+    {
+      "category": "Vietnam / World",
+      "title": "Vietnam says US trade-agreement negotiations are largely complete",
+      "summary": "Vietnam's government said on October 8 that seven rounds of talks have resolved almost all negotiating points in a reciprocal trade agreement with the United States. A handful of technical issues remain before the countries can finalize and sign the deal.",
+      "why": "The agreement could shape tariffs, export competitiveness and supply-chain decisions. Vietnam's trade surplus with the US reached $122.62 billion in the first nine months of 2026, making the outcome economically significant.",
+      "url": "https://www.reuters.com/world/asia-pacific/vietnam-says-its-trade-deal-negotiations-with-us-are-largely-completed-2026-10-08/",
+      "image_url": "https://media.vov.vn/sites/default/files/styles/large/public/2025-12/hai%20phong%20port.jpg"
+    },
+    {
+      "category": "AI Infrastructure / World",
+      "title": "Drone strike forces shutdown of a Yandex data centre in Russia",
+      "summary": "Yandex said a drone attack on its Sasovo data centre caused a fire and forced operations to stop while services were restored. The site hosts tens of thousands of servers and has housed two of the company's three Nvidia A100-based supercomputers used to train YandexGPT; the company has not confirmed whether those systems were damaged.",
+      "why": "The war is increasingly reaching digital infrastructure, not just energy and transport. The incident highlights physical concentration risks for cloud services and AI training systems.",
+      "url": "https://www.reuters.com/world/drones-hit-yandex-data-centre-first-major-attack-russian-data-hub-2026-10-08/",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yandex_logo_en.svg"
+    },
+    {
+      "category": "AI / Consumer Tech",
+      "title": "Google restricts free Gemini users to Flash-Lite starting today",
+      "summary": "Beginning October 9, Google's free Gemini plan is limited to the Flash-Lite model. Access to standard Flash moves to the $4.99-per-month AI Plus plan, while Gemini Pro and Deep Think require the more expensive AI Pro or Ultra subscriptions. AI Plus subscribers are also losing Gemini Pro access.",
+      "why": "This is a meaningful change for anyone using Gemini as a free daily assistant or comparing model access across providers. It also signals that advanced-model access is increasingly being segmented by subscription tier rather than only by usage limits.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?crop=0.95588235294118%2C0%2C98.088235294118%2C100&quality=90&strip=all&w=2400"
+    },
+    {
+      "category": "Science / Space",
+      "title": "Webb pinpoints the host of the most distant fast radio burst yet",
+      "summary": "NASA reported on October 8 that the James Webb Space Telescope identified the host galaxy of fast radio burst FRB 20240304B, confirming it existed when the universe was about 3 billion years old. The host is a small, actively star-forming dwarf galaxy—much less massive than researchers expected.",
+      "why": "The result strengthens the case that at least some fast radio bursts come from young magnetars rather than merging neutron stars. Webb's measurement also helps researchers study otherwise hard-to-see matter between galaxies.",
+      "url": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01KKCJGBWX6TE4ABRTFWE9B8SQ.jpg?crop=faces%2Cfocalpoint&fit=clip&h=3792&w=4353"
+    }
+  ]
+}
