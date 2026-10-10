@@ -1,47 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-09T08:22:02+07:00",
+  "generated_at": "2026-10-10T09:09:26+07:00",
   "title": "Daily Briefing",
   "stories": [
-    {
-      "category": "AI / Developer Tech",
-      "title": "Google launches a universal Gemini agent for workplace tasks",
-      "summary": "On October 8, Google Cloud introduced a Gemini agent that can plan and carry out work across Gmail, Docs, Sheets, Calendar, Microsoft 365 and Slack. It can generate content, write code, connect to business systems and coordinate specialized sub-agents. The initial rollout is aimed at enterprise customers.",
-      "why": "The competition is shifting from chatbots that answer prompts to agents that execute multi-step work. For developers, the notable details are code execution, third-party integrations, model routing and enterprise permission controls.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/",
-      "image_url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Gemini.max-2000x2000.png"
-    },
-    {
-      "category": "Vietnam / World",
-      "title": "Vietnam says US trade-agreement negotiations are largely complete",
-      "summary": "Vietnam's government said on October 8 that seven rounds of talks have resolved almost all negotiating points in a reciprocal trade agreement with the United States. A handful of technical issues remain before the countries can finalize and sign the deal.",
-      "why": "The agreement could shape tariffs, export competitiveness and supply-chain decisions. Vietnam's trade surplus with the US reached $122.62 billion in the first nine months of 2026, making the outcome economically significant.",
-      "url": "https://www.reuters.com/world/asia-pacific/vietnam-says-its-trade-deal-negotiations-with-us-are-largely-completed-2026-10-08/",
-      "image_url": "https://media.vov.vn/sites/default/files/styles/large/public/2025-12/hai%20phong%20port.jpg"
-    },
-    {
-      "category": "AI Infrastructure / World",
-      "title": "Drone strike forces shutdown of a Yandex data centre in Russia",
-      "summary": "Yandex said a drone attack on its Sasovo data centre caused a fire and forced operations to stop while services were restored. The site hosts tens of thousands of servers and has housed two of the company's three Nvidia A100-based supercomputers used to train YandexGPT; the company has not confirmed whether those systems were damaged.",
-      "why": "The war is increasingly reaching digital infrastructure, not just energy and transport. The incident highlights physical concentration risks for cloud services and AI training systems.",
-      "url": "https://www.reuters.com/world/drones-hit-yandex-data-centre-first-major-attack-russian-data-hub-2026-10-08/",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yandex_logo_en.svg"
-    },
-    {
-      "category": "World / Tech Workforce",
-      "title": "US suspends PERM green-card processing for Microsoft and major IT firms",
-      "summary": "The Trump administration suspended Microsoft, Adobe and several large IT outsourcing firms from the US PERM permanent-residency program while it investigates alleged visa abuse and the use of foreign labor. The affected firms dispute the administration's characterization of their hiring practices.",
-      "why": "The move could disrupt immigration plans for skilled workers and add uncertainty for global technology hiring and outsourcing. It is a policy action, not a blanket cancellation of existing green cards.",
-      "url": "https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"
-    },
-    {
-      "category": "Science / Space",
-      "title": "Webb pinpoints the host of the most distant fast radio burst yet",
-      "summary": "NASA reported on October 8 that the James Webb Space Telescope identified the host galaxy of fast radio burst FRB 20240304B, confirming it existed when the universe was about 3 billion years old. The host is a small, actively star-forming dwarf galaxy—much less massive than researchers expected.",
-      "why": "The result strengthens the case that at least some fast radio bursts come from young magnetars rather than merging neutron stars. Webb's measurement also helps researchers study otherwise hard-to-see matter between galaxies.",
-      "url": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01KKCJGBWX6TE4ABRTFWE9B8SQ.jpg?crop=faces%2Cfocalpoint&fit=clip&h=3792&w=4353"
-    }
+    {"category":"Vietnam / Weather","title":"Central Vietnam floods worsen as troops prepare rescue operations","summary":"Heavy rain continued across central Vietnam on Friday, flooding parts of Hue after inundating Da Nang. Hue recorded more than 800 mm of rain over three days, and authorities warned that further rain could trigger flash floods and landslides through Sunday.","why":"This is an immediate safety and infrastructure issue for central Vietnam, with risks to residents, transport and local businesses. Follow local evacuation and weather warnings as conditions evolve.","url":"https://apnews.com/article/vietnam-floods-hue-danang-climate-change-2026-10-09","image_url":""},
+    {"category":"AI / Safety","title":"China tightens oversight of AI while warning against tech investment bubbles","summary":"New Chinese policy guidelines call for breakthroughs in core AI technology and more computing capacity, while directing officials to curb blind investment, manage AI risks and keep systems safe, reliable and controllable.","why":"The policy shows Beijing trying to accelerate domestic AI capability while limiting speculative investment and strengthening state oversight. It may shape where Chinese AI infrastructure and industrial applications receive support.","url":"https://www.reuters.com/world/asia-pacific/china-issues-guidelines-new-productive-forces-including-ai-2026-10-09/","image_url":"https://img.antaranews.com/cache/1200x800/2026/07/17/CjkinzN000010_20260717_CBMFN0A001.jpg"},
+    {"category":"AI / Privacy","title":"UK regulator secures data-protection commitments from ten major AI developers","summary":"The UK's Information Commissioner's Office said ten leading AI developers, including OpenAI, Google, Microsoft, Anthropic and DeepSeek, have made or committed to make changes such as clearer data-use disclosures, stronger ways for people to exercise data rights and improved safeguards. The regulator is also seeking evidence on risks from AI agents.","why":"This could lead to clearer privacy controls and data-handling explanations for people using AI services in the UK. The commitments are not all completed changes, and the regulator says it will monitor follow-through.","url":"https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/10/ico-secures-changes-from-leading-ai-developers-as-scrutiny-extends-to-ai-agents/","image_url":"https://cdn.zonebourse.com/static/resize/0/0/images/reuters/2026-09/2026-09-27T154613Z_1_LYNXMPEM8Q0E8_RTROPTP_4_AI-TECHNOLOGY.JPG"},
+    {"category":"Science / Space","title":"NASA opens nearly 800 GB of Artemis II lunar science data to the public","summary":"NASA released an Artemis II archive containing more than 11,000 full-resolution images and videos, 8.5 hours of spoken observations, transcripts and astronaut annotations. Early analysis includes five observed lunar impact flashes and detailed records of lunar color, terrain and lighting.","why":"The archive gives researchers new human-observed lunar data to study impact rates, geology and surface conditions. Findings can inform hazard planning for future crewed lunar missions.","url":"https://www.wired.com/story/nasa-just-made-nearly-1-tb-of-artemis-ii-data-available-to-the-public/","image_url":"https://media.wired.com/photos/6ac7fc75775a25ece8a94633/master/w_2560%2Cc_limit/art002e016252%20%281%29.jpg"},
+    {"category":"Linux / PC Gaming","title":"Proton 11.0-2e fixes EA App launcher issues under Steam Play","summary":"Valve and CodeWeavers released Proton 11.0-2e, a compatibility update for running Windows games on Linux. It fixes the EA App login window failing to receive focus properly under Gamescope and incorrect splash images for EA App titles.","why":"For Steam Deck and Linux desktop players, launcher problems can prevent games from starting even when the game itself is compatible. This is a targeted fix rather than a major performance overhaul.","url":"https://www.phoronix.com/news/Steam-Play-Proton-11.0-2e","image_url":"https://static.tweaktown.com/news/1x1/111106_valves-proton-11-beta-boosts-linux-gaming.jpg"}
   ]
 }
