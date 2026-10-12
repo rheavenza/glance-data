@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-12T08:53:31+07:00",
+  "title": "Daily Briefing",
+  "stories": [
+    {
+      "category": "World",
+      "title": "Riyadh airport is struck again as Iran offers to mediate",
+      "summary": "A projectile struck a passenger terminal at Riyadh's King Khalid International Airport on Sunday, a day after a missile strike caused deaths and hundreds of injuries. Saudi authorities reported injuries in the second attack, and the airport remained closed. Iran's foreign minister said Tehran was willing to help facilitate dialogue between Saudi Arabia and Yemen's Houthis.",
+      "why": "The escalation threatens civilian aviation, energy infrastructure and Red Sea shipping. Wider regional military involvement could further disrupt oil flows and security.",
+      "url": "https://apnews.com/article/saudi-yemen-houthi-riyadh-airport-d2e0868ffb18d883c16465d7d6a87ccb",
+      "image_url": ""
+    },
+    {
+      "category": "AI / Developer Tech",
+      "title": "Nvidia reportedly weighs a deeper deal with open-model startup Reflection AI",
+      "summary": "Reuters reported October 10 that Nvidia is in early discussions about increasing its investment in Reflection AI or acquiring it. A possible arrangement could instead involve hiring staff and licensing technology. Neither company confirmed a transaction, and the talks could still fall apart.",
+      "why": "Reflection is developing open-weight models for coding and agentic tasks. A deeper Nvidia tie-up could affect competition in open AI models, but no deal has been announced.",
+      "url": "https://www.reuters.com/business/nvidia-talks-invest-further-reflection-ai-or-buy-it-ft-reports-2026-10-10/",
+      "image_url": "https://aigyani.com/wp-content/uploads/2025/10/Reflection-AI.png"
+    },
+    {
+      "category": "AI Infrastructure / Environment",
+      "title": "Residents push back against Google's planned $15 billion AI data centre in India",
+      "summary": "An AFP report published October 12 describes opposition to Google's planned data centre in Visakhapatnam. Residents and farmers worry that the project and nearby technology sites will strain water and electricity supplies, affect the environment and displace farmland.",
+      "why": "The debate highlights the land, electricity and cooling-water costs of AI expansion and the growing role of local communities in challenging data-centre projects.",
+      "url": "https://www.thenews.pk/print/1442545-google-faces-backlash-against-india-data-centre",
+      "image_url": "https://etimg.etb2bimg.com/photo/130636258.cms"
+    },
+    {
+      "category": "Vietnam / Weather",
+      "title": "Vietnam issues fresh flash-flood and landslide warnings for three areas",
+      "summary": "Vietnamese forecasters issued flash-flood and landslide warnings for three provinces and cities on October 12. Thunderstorms are forecast in central and southern areas, following severe flooding around Hue and Da Nang earlier this week.",
+      "why": "People travelling through central Vietnam should monitor local alerts and road conditions; saturated ground can trigger flash floods and landslides even if rainfall temporarily eases.",
+      "url": "https://www.vietnam.vn/en/thoi-tiet-ngay-12-10-canh-bao-lu-quet-sat-lo-dat-o-3-tinh-thanh-pho",
+      "image_url": "https://dims.apnews.com/dims4/default/6894e6b/2147483647/strip/true/crop/1256x941%2B0%2B0/resize/599x449%21/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F37%2F1a%2Ff4f0cd4f2c4d50da32dbcb9640ed%2F3381598c79b945589d826eb56fa988da"
+    },
+    {
+      "category": "Science / Space",
+      "title": "NASA opens an 800 GB archive of Artemis II lunar observations",
+      "summary": "NASA has made more than 800 GB of Artemis II science material available, including over 11,000 photos and videos, more than 8.5 hours of audio and annotated crew observations. One highlight documents five faint flashes the astronauts saw on the Moon's dark side, believed to be small impact events.",
+      "why": "The archive gives researchers and the public primary data from a crewed lunar flyby. The impact observations can help scientists estimate how often small objects hit the Moon, relevant to future lunar operations.",
+      "url": "https://www.nasa.gov/blogs/missions/2026/10/07/nasa-releases-artemis-ii-lunar-science-data-images/",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/art002e016252_impactflash_annotation_croppedlarge.jpg"
+    }
+  ]
+}
