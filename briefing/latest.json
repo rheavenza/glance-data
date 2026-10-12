@@ -1,47 +1,47 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-09T08:22:02+07:00",
+  "generated_at": "2026-10-12T08:53:31+07:00",
   "title": "Daily Briefing",
   "stories": [
     {
+      "category": "World",
+      "title": "Riyadh airport is struck again as Iran offers to mediate",
+      "summary": "A projectile struck a passenger terminal at Riyadh's King Khalid International Airport on Sunday, a day after a missile strike caused deaths and hundreds of injuries. Saudi authorities reported injuries in the second attack, and the airport remained closed. Iran's foreign minister said Tehran was willing to help facilitate dialogue between Saudi Arabia and Yemen's Houthis.",
+      "why": "The escalation threatens civilian aviation, energy infrastructure and Red Sea shipping. Wider regional military involvement could further disrupt oil flows and security.",
+      "url": "https://apnews.com/article/saudi-yemen-houthi-riyadh-airport-d2e0868ffb18d883c16465d7d6a87ccb",
+      "image_url": ""
+    },
+    {
       "category": "AI / Developer Tech",
-      "title": "Google launches a universal Gemini agent for workplace tasks",
-      "summary": "On October 8, Google Cloud introduced a Gemini agent that can plan and carry out work across Gmail, Docs, Sheets, Calendar, Microsoft 365 and Slack. It can generate content, write code, connect to business systems and coordinate specialized sub-agents. The initial rollout is aimed at enterprise customers.",
-      "why": "The competition is shifting from chatbots that answer prompts to agents that execute multi-step work. For developers, the notable details are code execution, third-party integrations, model routing and enterprise permission controls.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/",
-      "image_url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Gemini.max-2000x2000.png"
+      "title": "Nvidia reportedly weighs a deeper deal with open-model startup Reflection AI",
+      "summary": "Reuters reported October 10 that Nvidia is in early discussions about increasing its investment in Reflection AI or acquiring it. A possible arrangement could instead involve hiring staff and licensing technology. Neither company confirmed a transaction, and the talks could still fall apart.",
+      "why": "Reflection is developing open-weight models for coding and agentic tasks. A deeper Nvidia tie-up could affect competition in open AI models, but no deal has been announced.",
+      "url": "https://www.reuters.com/business/nvidia-talks-invest-further-reflection-ai-or-buy-it-ft-reports-2026-10-10/",
+      "image_url": "https://aigyani.com/wp-content/uploads/2025/10/Reflection-AI.png"
     },
     {
-      "category": "Vietnam / World",
-      "title": "Vietnam says US trade-agreement negotiations are largely complete",
-      "summary": "Vietnam's government said on October 8 that seven rounds of talks have resolved almost all negotiating points in a reciprocal trade agreement with the United States. A handful of technical issues remain before the countries can finalize and sign the deal.",
-      "why": "The agreement could shape tariffs, export competitiveness and supply-chain decisions. Vietnam's trade surplus with the US reached $122.62 billion in the first nine months of 2026, making the outcome economically significant.",
-      "url": "https://www.reuters.com/world/asia-pacific/vietnam-says-its-trade-deal-negotiations-with-us-are-largely-completed-2026-10-08/",
-      "image_url": "https://media.vov.vn/sites/default/files/styles/large/public/2025-12/hai%20phong%20port.jpg"
+      "category": "AI Infrastructure / Environment",
+      "title": "Residents push back against Google's planned $15 billion AI data centre in India",
+      "summary": "An AFP report published October 12 describes opposition to Google's planned data centre in Visakhapatnam. Residents and farmers worry that the project and nearby technology sites will strain water and electricity supplies, affect the environment and displace farmland.",
+      "why": "The debate highlights the land, electricity and cooling-water costs of AI expansion and the growing role of local communities in challenging data-centre projects.",
+      "url": "https://www.thenews.pk/print/1442545-google-faces-backlash-against-india-data-centre",
+      "image_url": "https://etimg.etb2bimg.com/photo/130636258.cms"
     },
     {
-      "category": "AI Infrastructure / World",
-      "title": "Drone strike forces shutdown of a Yandex data centre in Russia",
-      "summary": "Yandex said a drone attack on its Sasovo data centre caused a fire and forced operations to stop while services were restored. The site hosts tens of thousands of servers and has housed two of the company's three Nvidia A100-based supercomputers used to train YandexGPT; the company has not confirmed whether those systems were damaged.",
-      "why": "The war is increasingly reaching digital infrastructure, not just energy and transport. The incident highlights physical concentration risks for cloud services and AI training systems.",
-      "url": "https://www.reuters.com/world/drones-hit-yandex-data-centre-first-major-attack-russian-data-hub-2026-10-08/",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yandex_logo_en.svg"
-    },
-    {
-      "category": "World / Tech Workforce",
-      "title": "US suspends PERM green-card processing for Microsoft and major IT firms",
-      "summary": "The Trump administration suspended Microsoft, Adobe and several large IT outsourcing firms from the US PERM permanent-residency program while it investigates alleged visa abuse and the use of foreign labor. The affected firms dispute the administration's characterization of their hiring practices.",
-      "why": "The move could disrupt immigration plans for skilled workers and add uncertainty for global technology hiring and outsourcing. It is a policy action, not a blanket cancellation of existing green cards.",
-      "url": "https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"
+      "category": "Vietnam / Weather",
+      "title": "Vietnam issues fresh flash-flood and landslide warnings for three areas",
+      "summary": "Vietnamese forecasters issued flash-flood and landslide warnings for three provinces and cities on October 12. Thunderstorms are forecast in central and southern areas, following severe flooding around Hue and Da Nang earlier this week.",
+      "why": "People travelling through central Vietnam should monitor local alerts and road conditions; saturated ground can trigger flash floods and landslides even if rainfall temporarily eases.",
+      "url": "https://www.vietnam.vn/en/thoi-tiet-ngay-12-10-canh-bao-lu-quet-sat-lo-dat-o-3-tinh-thanh-pho",
+      "image_url": "https://dims.apnews.com/dims4/default/6894e6b/2147483647/strip/true/crop/1256x941%2B0%2B0/resize/599x449%21/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F37%2F1a%2Ff4f0cd4f2c4d50da32dbcb9640ed%2F3381598c79b945589d826eb56fa988da"
     },
     {
       "category": "Science / Space",
-      "title": "Webb pinpoints the host of the most distant fast radio burst yet",
-      "summary": "NASA reported on October 8 that the James Webb Space Telescope identified the host galaxy of fast radio burst FRB 20240304B, confirming it existed when the universe was about 3 billion years old. The host is a small, actively star-forming dwarf galaxy—much less massive than researchers expected.",
-      "why": "The result strengthens the case that at least some fast radio bursts come from young magnetars rather than merging neutron stars. Webb's measurement also helps researchers study otherwise hard-to-see matter between galaxies.",
-      "url": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01KKCJGBWX6TE4ABRTFWE9B8SQ.jpg?crop=faces%2Cfocalpoint&fit=clip&h=3792&w=4353"
+      "title": "NASA opens an 800 GB archive of Artemis II lunar observations",
+      "summary": "NASA has made more than 800 GB of Artemis II science material available, including over 11,000 photos and videos, more than 8.5 hours of audio and annotated crew observations. One highlight documents five faint flashes the astronauts saw on the Moon's dark side, believed to be small impact events.",
+      "why": "The archive gives researchers and the public primary data from a crewed lunar flyby. The impact observations can help scientists estimate how often small objects hit the Moon, relevant to future lunar operations.",
+      "url": "https://www.nasa.gov/blogs/missions/2026/10/07/nasa-releases-artemis-ii-lunar-science-data-images/",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/art002e016252_impactflash_annotation_croppedlarge.jpg"
     }
   ]
 }
