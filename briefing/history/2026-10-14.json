@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-14T08:57:25+07:00",
+  "title": "Daily Briefing",
+  "stories": [
+    {
+      "category": "World / Energy",
+      "title": "Iran steps up pressure on shipping around the Strait of Hormuz",
+      "summary": "Reuters reports that Iran has changed the pace and methods of attacks on ships in and beyond the Strait of Hormuz. Maritime-security data recorded at least five incidents involving commercial vessels in the surrounding area over 48 hours. Some assessments about Tehran's political aims are attributed to unnamed officials and have not been independently established.",
+      "why": "The strait carried roughly one-fifth of global oil and liquefied natural gas trade before the war. Further disruption could raise energy, freight and insurance costs worldwide.",
+      "url": "https://www.reuters.com/world/middle-east/iran-shifting-tactics-step-up-attacks-shipping-before-us-vote-officials-say-2026-10-14/",
+      "image_url": ""
+    },
+    {
+      "category": "World / Ukraine",
+      "title": "Russian missile strike kills two in Kyiv and damages a thermal power plant",
+      "summary": "Reuters reports that Russian ballistic missiles struck Kyiv on October 13, killing two people in a residential building and injuring 21, while also hitting Thermal Plant No. 4. Ukrainian President Volodymyr Zelenskiy said the attack targeted energy infrastructure and criticized the lack of advance warning from Western partners. Some details about the intended target and warning arrangements are attributed to Ukrainian officials.",
+      "why": "Attacks on power infrastructure threaten civilian electricity and heating while increasing pressure on Ukraine's emergency-response systems.",
+      "url": "https://www.reuters.com/world/russian-missile-attack-kyiv-kills-one-2026-10-13/",
+      "image_url": ""
+    },
+    {
+      "category": "Economy / AI",
+      "title": "IMF warns an AI investment correction, war and debt could weaken global growth",
+      "summary": "The IMF's October World Economic Outlook puts global growth at 3.1% in 2026 and 3.4% in 2027, while warning that a sharp fall in AI investment could lower global GDP by 1.1% by 2028. A prolonged Middle East conflict and higher oil prices pose additional downside risks. The IMF's baseline is continued growth, not a forecast of an imminent global recession.",
+      "why": "AI infrastructure spending is supporting trade and investment, but concentrated valuations and debt can amplify a downturn if expected revenues fail to materialize.",
+      "url": "https://www.reuters.com/business/finance/imf-flags-risks-global-economy-ai-market-correction-war-debt-2026-10-13/",
+      "image_url": "https://ajo.prod.reuters.tv/api/v2/img/6accd421e4b03d5adffafe20-1791808556781?quality=80&width=1080"
+    },
+    {
+      "category": "AI / Open Source Hardware",
+      "title": "Scaleway plans an AMD-powered AI supercomputer in Sweden",
+      "summary": "French cloud provider Scaleway says it will build its first AI supercomputer outside France in Sweden using AMD Instinct MI355X accelerators. The service is intended for startups, AI companies and businesses across Europe. AMD's ROCm software stack is open source, offering an alternative to Nvidia's more hardware-specific CUDA ecosystem.",
+      "why": "The project adds another commercial option for European AI compute and may help reduce dependence on a single GPU vendor. Actual performance, capacity and pricing will matter more than launch claims.",
+      "url": "https://www.reuters.com/business/media-telecom/scaleway-build-amd-powered-ai-supercomputer-sweden-2026-10-13/",
+      "image_url": ""
+    },
+    {
+      "category": "Science / Space",
+      "title": "SpaceX launches NASA's CRS-35 cargo mission to the International Space Station",
+      "summary": "NASA confirmed that SpaceX's Falcon 9 launched the Dragon cargo spacecraft on October 13 carrying more than 6,300 pounds of supplies and hardware. The cargo includes the final pair of roll-out solar arrays and experiments involving artificial retinas, 3D heart tissue and brain organoids. Docking is scheduled for October 15, subject to mission operations.",
+      "why": "The arrays will augment the station's power supply, while the microgravity experiments could support future medical research and longer-duration spaceflight.",
+      "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
+      "image_url": ""
+    }
+  ]
+}
