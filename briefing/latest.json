@@ -1,47 +1,47 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-09T08:22:02+07:00",
+  "generated_at": "2026-10-14T08:57:25+07:00",
   "title": "Daily Briefing",
   "stories": [
     {
-      "category": "AI / Developer Tech",
-      "title": "Google launches a universal Gemini agent for workplace tasks",
-      "summary": "On October 8, Google Cloud introduced a Gemini agent that can plan and carry out work across Gmail, Docs, Sheets, Calendar, Microsoft 365 and Slack. It can generate content, write code, connect to business systems and coordinate specialized sub-agents. The initial rollout is aimed at enterprise customers.",
-      "why": "The competition is shifting from chatbots that answer prompts to agents that execute multi-step work. For developers, the notable details are code execution, third-party integrations, model routing and enterprise permission controls.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/",
-      "image_url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Gemini.max-2000x2000.png"
+      "category": "World / Energy",
+      "title": "Iran steps up pressure on shipping around the Strait of Hormuz",
+      "summary": "Reuters reports that Iran has changed the pace and methods of attacks on ships in and beyond the Strait of Hormuz. Maritime-security data recorded at least five incidents involving commercial vessels in the surrounding area over 48 hours. Some assessments about Tehran's political aims are attributed to unnamed officials and have not been independently established.",
+      "why": "The strait carried roughly one-fifth of global oil and liquefied natural gas trade before the war. Further disruption could raise energy, freight and insurance costs worldwide.",
+      "url": "https://www.reuters.com/world/middle-east/iran-shifting-tactics-step-up-attacks-shipping-before-us-vote-officials-say-2026-10-14/",
+      "image_url": ""
     },
     {
-      "category": "Vietnam / World",
-      "title": "Vietnam says US trade-agreement negotiations are largely complete",
-      "summary": "Vietnam's government said on October 8 that seven rounds of talks have resolved almost all negotiating points in a reciprocal trade agreement with the United States. A handful of technical issues remain before the countries can finalize and sign the deal.",
-      "why": "The agreement could shape tariffs, export competitiveness and supply-chain decisions. Vietnam's trade surplus with the US reached $122.62 billion in the first nine months of 2026, making the outcome economically significant.",
-      "url": "https://www.reuters.com/world/asia-pacific/vietnam-says-its-trade-deal-negotiations-with-us-are-largely-completed-2026-10-08/",
-      "image_url": "https://media.vov.vn/sites/default/files/styles/large/public/2025-12/hai%20phong%20port.jpg"
+      "category": "World / Ukraine",
+      "title": "Russian missile strike kills two in Kyiv and damages a thermal power plant",
+      "summary": "Reuters reports that Russian ballistic missiles struck Kyiv on October 13, killing two people in a residential building and injuring 21, while also hitting Thermal Plant No. 4. Ukrainian President Volodymyr Zelenskiy said the attack targeted energy infrastructure and criticized the lack of advance warning from Western partners. Some details about the intended target and warning arrangements are attributed to Ukrainian officials.",
+      "why": "Attacks on power infrastructure threaten civilian electricity and heating while increasing pressure on Ukraine's emergency-response systems.",
+      "url": "https://www.reuters.com/world/russian-missile-attack-kyiv-kills-one-2026-10-13/",
+      "image_url": ""
     },
     {
-      "category": "AI Infrastructure / World",
-      "title": "Drone strike forces shutdown of a Yandex data centre in Russia",
-      "summary": "Yandex said a drone attack on its Sasovo data centre caused a fire and forced operations to stop while services were restored. The site hosts tens of thousands of servers and has housed two of the company's three Nvidia A100-based supercomputers used to train YandexGPT; the company has not confirmed whether those systems were damaged.",
-      "why": "The war is increasingly reaching digital infrastructure, not just energy and transport. The incident highlights physical concentration risks for cloud services and AI training systems.",
-      "url": "https://www.reuters.com/world/drones-hit-yandex-data-centre-first-major-attack-russian-data-hub-2026-10-08/",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yandex_logo_en.svg"
+      "category": "Economy / AI",
+      "title": "IMF warns an AI investment correction, war and debt could weaken global growth",
+      "summary": "The IMF's October World Economic Outlook puts global growth at 3.1% in 2026 and 3.4% in 2027, while warning that a sharp fall in AI investment could lower global GDP by 1.1% by 2028. A prolonged Middle East conflict and higher oil prices pose additional downside risks. The IMF's baseline is continued growth, not a forecast of an imminent global recession.",
+      "why": "AI infrastructure spending is supporting trade and investment, but concentrated valuations and debt can amplify a downturn if expected revenues fail to materialize.",
+      "url": "https://www.reuters.com/business/finance/imf-flags-risks-global-economy-ai-market-correction-war-debt-2026-10-13/",
+      "image_url": "https://ajo.prod.reuters.tv/api/v2/img/6accd421e4b03d5adffafe20-1791808556781?quality=80&width=1080"
     },
     {
-      "category": "World / Tech Workforce",
-      "title": "US suspends PERM green-card processing for Microsoft and major IT firms",
-      "summary": "The Trump administration suspended Microsoft, Adobe and several large IT outsourcing firms from the US PERM permanent-residency program while it investigates alleged visa abuse and the use of foreign labor. The affected firms dispute the administration's characterization of their hiring practices.",
-      "why": "The move could disrupt immigration plans for skilled workers and add uncertainty for global technology hiring and outsourcing. It is a policy action, not a blanket cancellation of existing green cards.",
-      "url": "https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"
+      "category": "AI / Open Source Hardware",
+      "title": "Scaleway plans an AMD-powered AI supercomputer in Sweden",
+      "summary": "French cloud provider Scaleway says it will build its first AI supercomputer outside France in Sweden using AMD Instinct MI355X accelerators. The service is intended for startups, AI companies and businesses across Europe. AMD's ROCm software stack is open source, offering an alternative to Nvidia's more hardware-specific CUDA ecosystem.",
+      "why": "The project adds another commercial option for European AI compute and may help reduce dependence on a single GPU vendor. Actual performance, capacity and pricing will matter more than launch claims.",
+      "url": "https://www.reuters.com/business/media-telecom/scaleway-build-amd-powered-ai-supercomputer-sweden-2026-10-13/",
+      "image_url": ""
     },
     {
       "category": "Science / Space",
-      "title": "Webb pinpoints the host of the most distant fast radio burst yet",
-      "summary": "NASA reported on October 8 that the James Webb Space Telescope identified the host galaxy of fast radio burst FRB 20240304B, confirming it existed when the universe was about 3 billion years old. The host is a small, actively star-forming dwarf galaxy—much less massive than researchers expected.",
-      "why": "The result strengthens the case that at least some fast radio bursts come from young magnetars rather than merging neutron stars. Webb's measurement also helps researchers study otherwise hard-to-see matter between galaxies.",
-      "url": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01KKCJGBWX6TE4ABRTFWE9B8SQ.jpg?crop=faces%2Cfocalpoint&fit=clip&h=3792&w=4353"
+      "title": "SpaceX launches NASA's CRS-35 cargo mission to the International Space Station",
+      "summary": "NASA confirmed that SpaceX's Falcon 9 launched the Dragon cargo spacecraft on October 13 carrying more than 6,300 pounds of supplies and hardware. The cargo includes the final pair of roll-out solar arrays and experiments involving artificial retinas, 3D heart tissue and brain organoids. Docking is scheduled for October 15, subject to mission operations.",
+      "why": "The arrays will augment the station's power supply, while the microgravity experiments could support future medical research and longer-duration spaceflight.",
+      "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
+      "image_url": ""
     }
   ]
 }
