@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-21T09:20:00+07:00",
+  "title": "Daily Briefing",
+  "stories": [
+    {
+      "category": "World / Humanitarian Crisis",
+      "title": "Drone strike kills at least 153 at market in disputed Abyei region",
+      "summary": "Local officials say a drone strike hit a fuel depot beside Amiet Market in Abyei, killing at least 153 people; the toll may rise. South Sudanese officials blamed Sudan's military, while a Sudanese military officer said the operation targeted fuel tankers allegedly bound for the RSF. The intended targets and identities of those killed have not been independently verified.",
+      "why": "The attack adds to a deadly escalation in Sudan's civil war and risks spreading instability across a disputed border region. Medical teams report treating burn victims, and officials say thousands have been displaced.",
+      "url": "https://apnews.com/article/sudan-drone-strike-fuel-depot-abyei-deaths-f36b3c7d15be6b48efdc35eed7219d6d",
+      "image_url": ""
+    },
+    {
+      "category": "AI / Enterprise Software",
+      "title": "Salesforce agrees to buy Braze for $5.66 billion in its latest AI push",
+      "summary": "Salesforce signed a definitive agreement to acquire customer-engagement platform Braze for about $5.66 billion. The deal would add real-time, AI-assisted customer messaging and personalization tools; it is expected to close in fiscal 2028, subject to shareholder and regulatory approvals.",
+      "why": "The acquisition shows enterprise software vendors using large deals to add AI-driven products and defend existing businesses. The premium price also raises questions about how quickly those capabilities can translate into growth.",
+      "url": "https://investor.salesforce.com/news/news-details/2026/Salesforce-Signs-Definitive-Agreement-to-Acquire-Braze/default.aspx",
+      "image_url": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2021/05/Salesforce-logo.jpg"
+    },
+    {
+      "category": "Open Source / AI Security",
+      "title": "AI-generated vulnerability reports are overwhelming OpenSSL maintainers",
+      "summary": "OpenSSL reported an average of 71 security reports and inquiries per month from May through July, up from nine in the same period a year earlier, with 108 in August. The project says many reports are duplicates or low-severity issues; roughly 500 reports over the past year resulted in 63 disclosed vulnerabilities.",
+      "why": "AI-assisted security research can uncover bugs faster, but triage and responsible fixes still require scarce expert review. Critical open-source infrastructure may need more sustained funding and reviewer capacity to benefit safely.",
+      "url": "https://www.axios.com/2026/10/20/ai-bug-reports-overwhelm-openssl-maintainers",
+      "image_url": "https://images.axios.com/DlQ-b8BYYvFJvDtUpJEJtiq0pP0%3D/0x0%3A1920x1080/1920x1080/2025/12/10/1765402115398.jpeg?w=3840"
+    },
+    {
+      "category": "Science / Space",
+      "title": "Japan's MMX spacecraft launches toward Mars' moons on a sample-return mission",
+      "summary": "JAXA confirmed that its H3 rocket launched the Martian Moons eXploration spacecraft on October 20 Japan time and released it into its planned trajectory. MMX will study Phobos and Deimos, attempt to collect material from Phobos, and target a return to Earth in 2031.",
+      "why": "Samples could help resolve whether Mars' moons are captured asteroids or debris from an ancient impact. The mission also advances Japan's deep-space navigation and sample-return capabilities.",
+      "url": "https://www.jaxa.jp/press/2026/10/20261020-1_j.html",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/skUZ5C2j7xZfc8zyD6hGrg.jpg"
+    },
+    {
+      "category": "Vietnam / Geopolitics",
+      "title": "China deploys naval forces to monitor US warship near disputed South China Sea shoal",
+      "summary": "China said it sent forces to track the USS Charleston near Sabina Shoal in the Spratly Islands. The US Navy said the ship was operating in international waters under international law, and the Philippines said it did not trespass into Chinese territory. Taiwan separately reported a standoff near the Pratas Islands.",
+      "why": "The incidents add to maritime tensions in a region where Vietnam and several other governments have overlapping claims. Close encounters raise the risk of miscalculation even when each side describes its actions as lawful.",
+      "url": "https://www.reuters.com/world/china/chinese-navy-says-us-ship-near-sabina-shoal-jeopardised-maritime-security-2026-10-20/",
+      "image_url": "https://www.chinausfocus.com/d/file/202303/d7ed19a4b8550891184174e8d8d92c03.jpg"
+    }
+  ]
+}

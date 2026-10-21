@@ -1,47 +1,47 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-09T08:22:02+07:00",
+  "generated_at": "2026-10-21T09:20:00+07:00",
   "title": "Daily Briefing",
   "stories": [
     {
-      "category": "AI / Developer Tech",
-      "title": "Google launches a universal Gemini agent for workplace tasks",
-      "summary": "On October 8, Google Cloud introduced a Gemini agent that can plan and carry out work across Gmail, Docs, Sheets, Calendar, Microsoft 365 and Slack. It can generate content, write code, connect to business systems and coordinate specialized sub-agents. The initial rollout is aimed at enterprise customers.",
-      "why": "The competition is shifting from chatbots that answer prompts to agents that execute multi-step work. For developers, the notable details are code execution, third-party integrations, model routing and enterprise permission controls.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/",
-      "image_url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Gemini.max-2000x2000.png"
+      "category": "World / Humanitarian Crisis",
+      "title": "Drone strike kills at least 153 at market in disputed Abyei region",
+      "summary": "Local officials say a drone strike hit a fuel depot beside Amiet Market in Abyei, killing at least 153 people; the toll may rise. South Sudanese officials blamed Sudan's military, while a Sudanese military officer said the operation targeted fuel tankers allegedly bound for the RSF. The intended targets and identities of those killed have not been independently verified.",
+      "why": "The attack adds to a deadly escalation in Sudan's civil war and risks spreading instability across a disputed border region. Medical teams report treating burn victims, and officials say thousands have been displaced.",
+      "url": "https://apnews.com/article/sudan-drone-strike-fuel-depot-abyei-deaths-f36b3c7d15be6b48efdc35eed7219d6d",
+      "image_url": ""
     },
     {
-      "category": "Vietnam / World",
-      "title": "Vietnam says US trade-agreement negotiations are largely complete",
-      "summary": "Vietnam's government said on October 8 that seven rounds of talks have resolved almost all negotiating points in a reciprocal trade agreement with the United States. A handful of technical issues remain before the countries can finalize and sign the deal.",
-      "why": "The agreement could shape tariffs, export competitiveness and supply-chain decisions. Vietnam's trade surplus with the US reached $122.62 billion in the first nine months of 2026, making the outcome economically significant.",
-      "url": "https://www.reuters.com/world/asia-pacific/vietnam-says-its-trade-deal-negotiations-with-us-are-largely-completed-2026-10-08/",
-      "image_url": "https://media.vov.vn/sites/default/files/styles/large/public/2025-12/hai%20phong%20port.jpg"
+      "category": "AI / Enterprise Software",
+      "title": "Salesforce agrees to buy Braze for $5.66 billion in its latest AI push",
+      "summary": "Salesforce signed a definitive agreement to acquire customer-engagement platform Braze for about $5.66 billion. The deal would add real-time, AI-assisted customer messaging and personalization tools; it is expected to close in fiscal 2028, subject to shareholder and regulatory approvals.",
+      "why": "The acquisition shows enterprise software vendors using large deals to add AI-driven products and defend existing businesses. The premium price also raises questions about how quickly those capabilities can translate into growth.",
+      "url": "https://investor.salesforce.com/news/news-details/2026/Salesforce-Signs-Definitive-Agreement-to-Acquire-Braze/default.aspx",
+      "image_url": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2021/05/Salesforce-logo.jpg"
     },
     {
-      "category": "AI Infrastructure / World",
-      "title": "Drone strike forces shutdown of a Yandex data centre in Russia",
-      "summary": "Yandex said a drone attack on its Sasovo data centre caused a fire and forced operations to stop while services were restored. The site hosts tens of thousands of servers and has housed two of the company's three Nvidia A100-based supercomputers used to train YandexGPT; the company has not confirmed whether those systems were damaged.",
-      "why": "The war is increasingly reaching digital infrastructure, not just energy and transport. The incident highlights physical concentration risks for cloud services and AI training systems.",
-      "url": "https://www.reuters.com/world/drones-hit-yandex-data-centre-first-major-attack-russian-data-hub-2026-10-08/",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yandex_logo_en.svg"
-    },
-    {
-      "category": "World / Tech Workforce",
-      "title": "US suspends PERM green-card processing for Microsoft and major IT firms",
-      "summary": "The Trump administration suspended Microsoft, Adobe and several large IT outsourcing firms from the US PERM permanent-residency program while it investigates alleged visa abuse and the use of foreign labor. The affected firms dispute the administration's characterization of their hiring practices.",
-      "why": "The move could disrupt immigration plans for skilled workers and add uncertainty for global technology hiring and outsourcing. It is a policy action, not a blanket cancellation of existing green cards.",
-      "url": "https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"
+      "category": "Open Source / AI Security",
+      "title": "AI-generated vulnerability reports are overwhelming OpenSSL maintainers",
+      "summary": "OpenSSL reported an average of 71 security reports and inquiries per month from May through July, up from nine in the same period a year earlier, with 108 in August. The project says many reports are duplicates or low-severity issues; roughly 500 reports over the past year resulted in 63 disclosed vulnerabilities.",
+      "why": "AI-assisted security research can uncover bugs faster, but triage and responsible fixes still require scarce expert review. Critical open-source infrastructure may need more sustained funding and reviewer capacity to benefit safely.",
+      "url": "https://www.axios.com/2026/10/20/ai-bug-reports-overwhelm-openssl-maintainers",
+      "image_url": "https://images.axios.com/DlQ-b8BYYvFJvDtUpJEJtiq0pP0%3D/0x0%3A1920x1080/1920x1080/2025/12/10/1765402115398.jpeg?w=3840"
     },
     {
       "category": "Science / Space",
-      "title": "Webb pinpoints the host of the most distant fast radio burst yet",
-      "summary": "NASA reported on October 8 that the James Webb Space Telescope identified the host galaxy of fast radio burst FRB 20240304B, confirming it existed when the universe was about 3 billion years old. The host is a small, actively star-forming dwarf galaxy—much less massive than researchers expected.",
-      "why": "The result strengthens the case that at least some fast radio bursts come from young magnetars rather than merging neutron stars. Webb's measurement also helps researchers study otherwise hard-to-see matter between galaxies.",
-      "url": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01KKCJGBWX6TE4ABRTFWE9B8SQ.jpg?crop=faces%2Cfocalpoint&fit=clip&h=3792&w=4353"
+      "title": "Japan's MMX spacecraft launches toward Mars' moons on a sample-return mission",
+      "summary": "JAXA confirmed that its H3 rocket launched the Martian Moons eXploration spacecraft on October 20 Japan time and released it into its planned trajectory. MMX will study Phobos and Deimos, attempt to collect material from Phobos, and target a return to Earth in 2031.",
+      "why": "Samples could help resolve whether Mars' moons are captured asteroids or debris from an ancient impact. The mission also advances Japan's deep-space navigation and sample-return capabilities.",
+      "url": "https://www.jaxa.jp/press/2026/10/20261020-1_j.html",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/skUZ5C2j7xZfc8zyD6hGrg.jpg"
+    },
+    {
+      "category": "Vietnam / Geopolitics",
+      "title": "China deploys naval forces to monitor US warship near disputed South China Sea shoal",
+      "summary": "China said it sent forces to track the USS Charleston near Sabina Shoal in the Spratly Islands. The US Navy said the ship was operating in international waters under international law, and the Philippines said it did not trespass into Chinese territory. Taiwan separately reported a standoff near the Pratas Islands.",
+      "why": "The incidents add to maritime tensions in a region where Vietnam and several other governments have overlapping claims. Close encounters raise the risk of miscalculation even when each side describes its actions as lawful.",
+      "url": "https://www.reuters.com/world/china/chinese-navy-says-us-ship-near-sabina-shoal-jeopardised-maritime-security-2026-10-20/",
+      "image_url": "https://www.chinausfocus.com/d/file/202303/d7ed19a4b8550891184174e8d8d92c03.jpg"
     }
   ]
 }
