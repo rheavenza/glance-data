@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-24T09:10:27+07:00",
+  "title": "Daily Briefing",
+  "stories": [
+    {
+      "category": "AI / Biosecurity",
+      "title": "UK announces £600 million package to strengthen AI security and biosecurity",
+      "summary": "The UK announced a roughly £600 million package focused on AI-related health and security risks. Plans include a government-backed AI Biosecurity Lab, up to £200 million in AI model credits from OpenAI and Anthropic, additional support for the AI Security Institute, and an AI-enabled centre to detect cyber threats. More implementation and funding details are expected with the Budget.",
+      "why": "The package links frontier-AI development to practical safeguards against biological and cyber threats. Its impact will depend on how quickly the labs become operational and how independent, transparent their evaluations are.",
+      "url": "https://www.reuters.com/world/uk/uk-government-sets-out-800-million-ai-security-funding-2026-10-23/",
+      "image_url": "https://images.ctfassets.net/pjshm78m9jt4/headerImage-83afaf3c-d298-4ca0-9ec1-833a93d46e7e/0ae6a6cdd743a68bf80badea1ad58ad9/headerImage-83afaf3c-d298-4ca0-9ec1-833a93d46e7e?f=faces&fit=fill&fm=jpg&h=225&q=80&w=400"
+    },
+    {
+      "category": "Open Source / Cybersecurity",
+      "title": "Critical PHP vulnerabilities trigger urgent patching warnings",
+      "summary": "Two critical PHP flaws, CVE-2026-109618 and CVE-2026-109619, can under certain conditions lead to unauthenticated remote code execution. PHP released fixed versions on October 21, and security agencies are urging operators to inventory internet-facing systems and patch promptly. Researchers have reported exploitation attempts, but reports do not establish successful compromise in every case.",
+      "why": "PHP remains widely deployed in web servers and applications, so vulnerable installations can expose services to serious compromise. Prioritize supported fixed versions, especially on public-facing systems.",
+      "url": "https://www.ncsc.gov.uk/news/critical-security-issue-affecting-php",
+      "image_url": "https://www.ncsc.gov.uk/sites/default/files/styles/uncropped_2xs/public/images/alert-no-logo-night-teal%402x.png?itok=ZUahAveM"
+    },
+    {
+      "category": "Geopolitics / Internet Infrastructure",
+      "title": "Iranian officials say Tehran has plans to target Gulf undersea cables if war resumes",
+      "summary": "Two Iranian security officials told Reuters that Tehran has drawn up plans to target undersea communications cables in the Gulf if the United States and Israel renew attacks. This is a reported conditional threat, not a report that cables have been cut. Analysts say the immediate impact would likely be regional because less than 1% of international bandwidth passes through the Strait of Hormuz, but multiple cuts could disrupt Gulf connectivity and complicate repairs.",
+      "why": "Subsea cables support cloud services, financial transactions and regional internet access. The threat highlights how conflict can endanger digital infrastructure as well as energy and shipping routes.",
+      "url": "https://www.reuters.com/world/middle-east/iran-has-detailed-plans-hit-gulf-undersea-cables-if-war-resumes-officials-say-2026-10-23/",
+      "image_url": "https://pbs.twimg.com/media/HH4ZvDCbQAAzlL_.jpg"
+    },
+    {
+      "category": "Game Development",
+      "title": "GameMaker will make its GMRT runtime free for commercial releases from January 2027",
+      "summary": "GameMaker says developers will be able to build and commercially distribute GMRT games on desktop, mobile, web and GX Games without a Professional licence starting January 1, 2027. Source-code access will be available across tiers. Console exports will still require an Enterprise licence and approved-developer status.",
+      "why": "The change lowers the upfront cost for indie developers choosing a 2D-focused engine and increases competition among game-development tools. Console publishing remains a separate paid path.",
+      "url": "https://gamemaker.io/en/blog/gmrt-update",
+      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt734556b7d95b0e3c/6adba2900194af6b95dc39c5/gamemakerfeatured.jpg?auto=webp&disable=upscale&quality=80&width=1280"
+    },
+    {
+      "category": "Vietnam / Energy & Climate",
+      "title": "Vietnam's coal-fired electricity reaches a record as export manufacturing expands",
+      "summary": "Reuters analysis citing Ember data says Vietnam generated 132.9 terawatt-hours of coal-fired electricity in the first nine months of 2026, up 15% year over year. Stronger manufacturing demand and lower hydropower output contributed to the increase; coal supplied about 52% of the power mix and power-sector emissions also rose.",
+      "why": "Vietnam's export growth is increasing electricity demand while much of its supply remains coal-dependent. This creates energy-security and emissions challenges and may bring greater scrutiny from overseas buyers of Vietnamese-made goods.",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/us-tariff-war-is-fueling-vietnams-coal-boom-2026-10-23/",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Khanh_Hoa_coal.jpg"
+    }
+  ]
+}
