@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-25T09:13:28+07:00",
+  "title": "Daily Briefing",
+  "stories": [
+    {
+      "category": "World / Europe",
+      "title": "Serbia votes as student-led anti-corruption movement challenges Vučić",
+      "summary": "Serbia holds a snap parliamentary election on October 25, pitting the ruling Serbian Progressive Party against a student-backed electoral list that grew out of nearly two years of protests after a deadly railway-station canopy collapse. Polls are mixed and suggest a close race. Voting is scheduled to begin later today in Serbia; results and any claims of irregularities remain unknown at briefing time.",
+      "why": "The result could reshape Serbia's political direction and its strained relationship with the EU. A disputed or very close result could also trigger further protests and instability.",
+      "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+      "image_url": "https://dims.apnews.com/dims4/default/61a3dae/2147483647/strip/true/crop/4260x2840%2B0%2B0/resize/599x399%21/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F73%2F1d%2Fe0a1e0189232042bd8b039abb734%2Ff998d9dc9ee5477cb4fe28add955a7ec"
+    },
+    {
+      "category": "World / Security",
+      "title": "US intelligence memo warns Iran-linked plots against Americans have advanced",
+      "summary": "Reuters reports that a US intelligence memo dated October 23 warned that efforts to target US personnel had increased and that lethal plots against American citizens had reached advanced stages in the Middle East and some other countries. The warning follows US staffing reductions at diplomatic missions in Saudi Arabia and updated regional travel advisories. The memo's allegations are an official threat assessment, not confirmation that a specific attack has occurred.",
+      "why": "The warning points to a heightened risk of regional escalation and may affect embassy operations, travel, shipping and US policy toward Iran and allied armed groups.",
+      "url": "https://www.reuters.com/world/middle-east/iran-has-ramped-up-efforts-target-us-personnel-intelligence-memo-warns-2026-10-24/",
+      "image_url": ""
+    },
+    {
+      "category": "AI / Developer Security",
+      "title": "OpenAI moves frontier-model training into internet-isolated environments",
+      "summary": "OpenAI says its frontier-model training and most evaluation now run without direct access to the live internet, using cached and indexed web content for browsing-like tasks. The company says an internal model reached the live internet through a DNS misconfiguration in September, and red-team agents later found weaknesses in sandbox and infrastructure controls. OpenAI says it patched issues, strengthened monitoring and resumed training on October 1.",
+      "why": "As models become more capable at exploiting software flaws, containment is becoming a core part of AI development. Offline training reduces exposure to external systems, but its effectiveness depends on layered isolation, monitoring and continued testing.",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "image_url": ""
+    },
+    {
+      "category": "Science / Space",
+      "title": "NASA accelerates Artemis tests while keeping a 2028 lunar landing target",
+      "summary": "NASA's October 23 update says Artemis III is planned as a 2027 low-Earth-orbit mission to test critical rendezvous and docking operations with commercial lunar landers. Artemis IV remains the target for the first crewed lunar landing of the programme in 2028. NASA is pressing contractors to accelerate work, but the schedule depends on complex systems and lander readiness.",
+      "why": "The revised sequence aims to test risky hardware and procedures closer to Earth before committing astronauts to a landing. It also sets the pace of the US lunar programme amid competition and cooperation with international partners.",
+      "url": "https://www.nasa.gov/blogs/missions/2026/10/23/nasa-shares-artemis-acceleration-plans-for-moon-missions/",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/jETLPi96ZsrQb7BexuJJKo.jpg"
+    },
+    {
+      "category": "Gaming / Security",
+      "title": "Modder demonstrates a tethered Nintendo Switch 2 jailbreak with AI-assisted work",
+      "summary": "The Verge reports that modder pepsipu demonstrated a software-only, tethered jailbreak that ran a modified Mario Kart World with custom characters. The method reportedly uses the game SmileBASIC 4 and OpenAI Codex assisted development. It must be triggered again after each reboot, is complex to reproduce, and its wider implications are still unclear; this is not a simple consumer-ready modification.",
+      "why": "The demonstration highlights how AI coding tools may accelerate console reverse engineering and homebrew development. It also raises familiar questions around platform security, software preservation and circumvention.",
+      "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?crop=12.106092436975%2C0%2C75.78781512605%2C100&quality=90&strip=all&w=2400"
+    }
+  ]
+}
