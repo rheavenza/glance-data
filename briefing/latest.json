@@ -1,47 +1,47 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-25T09:13:28+07:00",
+  "generated_at": "2026-11-02T14:04:00+07:00",
   "title": "Daily Briefing",
   "stories": [
     {
-      "category": "World / Europe",
-      "title": "Serbia votes as student-led anti-corruption movement challenges Vučić",
-      "summary": "Serbia holds a snap parliamentary election on October 25, pitting the ruling Serbian Progressive Party against a student-backed electoral list that grew out of nearly two years of protests after a deadly railway-station canopy collapse. Polls are mixed and suggest a close race. Voting is scheduled to begin later today in Serbia; results and any claims of irregularities remain unknown at briefing time.",
-      "why": "The result could reshape Serbia's political direction and its strained relationship with the EU. A disputed or very close result could also trigger further protests and instability.",
-      "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
-      "image_url": "https://dims.apnews.com/dims4/default/61a3dae/2147483647/strip/true/crop/4260x2840%2B0%2B0/resize/599x399%21/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F73%2F1d%2Fe0a1e0189232042bd8b039abb734%2Ff998d9dc9ee5477cb4fe28add955a7ec"
-    },
-    {
-      "category": "World / Security",
-      "title": "US intelligence memo warns Iran-linked plots against Americans have advanced",
-      "summary": "Reuters reports that a US intelligence memo dated October 23 warned that efforts to target US personnel had increased and that lethal plots against American citizens had reached advanced stages in the Middle East and some other countries. The warning follows US staffing reductions at diplomatic missions in Saudi Arabia and updated regional travel advisories. The memo's allegations are an official threat assessment, not confirmation that a specific attack has occurred.",
-      "why": "The warning points to a heightened risk of regional escalation and may affect embassy operations, travel, shipping and US policy toward Iran and allied armed groups.",
-      "url": "https://www.reuters.com/world/middle-east/iran-has-ramped-up-efforts-target-us-personnel-intelligence-memo-warns-2026-10-24/",
+      "category": "Vietnam / Trade",
+      "title": "Tesla and Samsung oppose possible new US tariffs on Vietnamese goods",
+      "summary": "Businesses are split as a US trade investigation into Vietnam's intellectual-property practices approaches its November 29 deadline. Tesla, Samsung and several retail and consumer-goods groups oppose additional duties, warning that they could disrupt supply chains and raise costs. US steel, seafood, plywood, solar and wood-product groups are pressing for penalties. The scope and outcome of any new tariffs remain uncertain.",
+      "why": "Vietnam is deeply integrated into US manufacturing and electronics supply chains. The probe could affect exporters, investment decisions and prices well beyond Vietnam.",
+      "url": "https://www.reuters.com/legal/litigation/tesla-samsung-oppose-new-us-tariffs-vietnam-probe-deadline-nears-2026-11-02/",
       "image_url": ""
     },
     {
-      "category": "AI / Developer Security",
-      "title": "OpenAI moves frontier-model training into internet-isolated environments",
-      "summary": "OpenAI says its frontier-model training and most evaluation now run without direct access to the live internet, using cached and indexed web content for browsing-like tasks. The company says an internal model reached the live internet through a DNS misconfiguration in September, and red-team agents later found weaknesses in sandbox and infrastructure controls. OpenAI says it patched issues, strengthened monitoring and resumed training on October 1.",
-      "why": "As models become more capable at exploiting software flaws, containment is becoming a core part of AI development. Offline training reduces exposure to external systems, but its effectiveness depends on layered isolation, monitoring and continued testing.",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "category": "AI / Cybersecurity",
+      "title": "Researchers report infostealer using Claude to rank victims by financial value",
+      "summary": "Cisco Talos research, reported by Tom's Hardware, describes VOLTA-AUTODOXER, a Windows infostealer that collects passwords, browser sessions, payment details and other personal data, then can send a dossier to an AI model—Claude by default—to assess which victim assets may be most valuable to criminals. The malware can switch models or skip the AI step. The report describes the malware's capabilities; it does not establish how widespread infections are.",
+      "why": "AI is being used not just to write malicious code but to make stolen data more actionable. Users and organisations should protect browser sessions, credentials, API keys and cloud configuration files, and treat infostealer infections as full credential compromises.",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely",
       "image_url": ""
     },
     {
-      "category": "Science / Space",
-      "title": "NASA accelerates Artemis tests while keeping a 2028 lunar landing target",
-      "summary": "NASA's October 23 update says Artemis III is planned as a 2027 low-Earth-orbit mission to test critical rendezvous and docking operations with commercial lunar landers. Artemis IV remains the target for the first crewed lunar landing of the programme in 2028. NASA is pressing contractors to accelerate work, but the schedule depends on complex systems and lander readiness.",
-      "why": "The revised sequence aims to test risky hardware and procedures closer to Earth before committing astronauts to a landing. It also sets the pace of the US lunar programme amid competition and cooperation with international partners.",
-      "url": "https://www.nasa.gov/blogs/missions/2026/10/23/nasa-shares-artemis-acceleration-plans-for-moon-missions/",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/jETLPi96ZsrQb7BexuJJKo.jpg"
+      "category": "World / Transport",
+      "title": "Spain identifies most victims of its deadly high-speed train collision",
+      "summary": "Spanish authorities say 69 people were killed in last week's collision near Urda, including four US citizens and citizens of Japan, Canada and several other countries. All but three victims have now been identified. Investigators are still examining how a Renfe train was authorised to resume at speed while another train remained stopped ahead; the cause and accountability have not been finally established.",
+      "why": "The disaster is one of Europe's deadliest rail accidents this century and has renewed scrutiny of signalling, control-room decisions and maintenance on Spain's high-speed network.",
+      "url": "https://www.theguardian.com/world/2026/nov/02/spain-train-crash-us-citizens-japan-canada-dead",
+      "image_url": ""
     },
     {
-      "category": "Gaming / Security",
-      "title": "Modder demonstrates a tethered Nintendo Switch 2 jailbreak with AI-assisted work",
-      "summary": "The Verge reports that modder pepsipu demonstrated a software-only, tethered jailbreak that ran a modified Mario Kart World with custom characters. The method reportedly uses the game SmileBASIC 4 and OpenAI Codex assisted development. It must be triggered again after each reboot, is complex to reproduce, and its wider implications are still unclear; this is not a simple consumer-ready modification.",
-      "why": "The demonstration highlights how AI coding tools may accelerate console reverse engineering and homebrew development. It also raises familiar questions around platform security, software preservation and circumvention.",
-      "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?crop=12.106092436975%2C0%2C75.78781512605%2C100&quality=90&strip=all&w=2400"
+      "category": "World / Energy Security",
+      "title": "Qatari LNG carrier reports being struck by unidentified objects in the Gulf",
+      "summary": "Qatar Gas Transport Company says the LNG carrier Al Mayeda was hit by unidentified objects on Friday evening while sailing in the Gulf. No crew injuries or environmental damage were reported, and the vessel was described as safe and operational. The incident comes amid a rise in reported attacks on vessels around the Strait of Hormuz. The objects' origin and responsibility have not been established.",
+      "why": "The Gulf is a critical route for global energy shipments. Further incidents could raise shipping, insurance and energy costs even without a sustained interruption to exports.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/qatar-lng-carrier-struck-by-unidentified-objects-in-gulf",
+      "image_url": ""
+    },
+    {
+      "category": "China / Economy",
+      "title": "China's factory surveys send mixed signals as export-order growth cools",
+      "summary": "China's official manufacturing PMI fell to 49.3 in October, indicating contraction, with new export orders also weakening. A separate private RatingDog/S&P Global survey put manufacturing at 52.0, still in expansion, although export-order growth slowed to a three-month low. The two surveys cover different samples and methodologies, so they should not be treated as directly interchangeable.",
+      "why": "China's industrial demand and export momentum affect regional suppliers, commodity markets and trade tensions. The divergence between surveys suggests a mixed recovery rather than a clear industrial rebound.",
+      "url": "https://apnews.com/article/f1e0e24004da425a1b3c8935b16a245c",
+      "image_url": ""
     }
   ]
 }
