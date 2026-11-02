@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-02T14:04:00+07:00",
+  "title": "Daily Briefing",
+  "stories": [
+    {
+      "category": "Vietnam / Trade",
+      "title": "Tesla and Samsung oppose possible new US tariffs on Vietnamese goods",
+      "summary": "Businesses are split as a US trade investigation into Vietnam's intellectual-property practices approaches its November 29 deadline. Tesla, Samsung and several retail and consumer-goods groups oppose additional duties, warning that they could disrupt supply chains and raise costs. US steel, seafood, plywood, solar and wood-product groups are pressing for penalties. The scope and outcome of any new tariffs remain uncertain.",
+      "why": "Vietnam is deeply integrated into US manufacturing and electronics supply chains. The probe could affect exporters, investment decisions and prices well beyond Vietnam.",
+      "url": "https://www.reuters.com/legal/litigation/tesla-samsung-oppose-new-us-tariffs-vietnam-probe-deadline-nears-2026-11-02/",
+      "image_url": ""
+    },
+    {
+      "category": "AI / Cybersecurity",
+      "title": "Researchers report infostealer using Claude to rank victims by financial value",
+      "summary": "Cisco Talos research, reported by Tom's Hardware, describes VOLTA-AUTODOXER, a Windows infostealer that collects passwords, browser sessions, payment details and other personal data, then can send a dossier to an AI model—Claude by default—to assess which victim assets may be most valuable to criminals. The malware can switch models or skip the AI step. The report describes the malware's capabilities; it does not establish how widespread infections are.",
+      "why": "AI is being used not just to write malicious code but to make stolen data more actionable. Users and organisations should protect browser sessions, credentials, API keys and cloud configuration files, and treat infostealer infections as full credential compromises.",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely",
+      "image_url": ""
+    },
+    {
+      "category": "World / Transport",
+      "title": "Spain identifies most victims of its deadly high-speed train collision",
+      "summary": "Spanish authorities say 69 people were killed in last week's collision near Urda, including four US citizens and citizens of Japan, Canada and several other countries. All but three victims have now been identified. Investigators are still examining how a Renfe train was authorised to resume at speed while another train remained stopped ahead; the cause and accountability have not been finally established.",
+      "why": "The disaster is one of Europe's deadliest rail accidents this century and has renewed scrutiny of signalling, control-room decisions and maintenance on Spain's high-speed network.",
+      "url": "https://www.theguardian.com/world/2026/nov/02/spain-train-crash-us-citizens-japan-canada-dead",
+      "image_url": ""
+    },
+    {
+      "category": "World / Energy Security",
+      "title": "Qatari LNG carrier reports being struck by unidentified objects in the Gulf",
+      "summary": "Qatar Gas Transport Company says the LNG carrier Al Mayeda was hit by unidentified objects on Friday evening while sailing in the Gulf. No crew injuries or environmental damage were reported, and the vessel was described as safe and operational. The incident comes amid a rise in reported attacks on vessels around the Strait of Hormuz. The objects' origin and responsibility have not been established.",
+      "why": "The Gulf is a critical route for global energy shipments. Further incidents could raise shipping, insurance and energy costs even without a sustained interruption to exports.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/qatar-lng-carrier-struck-by-unidentified-objects-in-gulf",
+      "image_url": ""
+    },
+    {
+      "category": "China / Economy",
+      "title": "China's factory surveys send mixed signals as export-order growth cools",
+      "summary": "China's official manufacturing PMI fell to 49.3 in October, indicating contraction, with new export orders also weakening. A separate private RatingDog/S&P Global survey put manufacturing at 52.0, still in expansion, although export-order growth slowed to a three-month low. The two surveys cover different samples and methodologies, so they should not be treated as directly interchangeable.",
+      "why": "China's industrial demand and export momentum affect regional suppliers, commodity markets and trade tensions. The divergence between surveys suggests a mixed recovery rather than a clear industrial rebound.",
+      "url": "https://apnews.com/article/f1e0e24004da425a1b3c8935b16a245c",
+      "image_url": ""
+    }
+  ]
+}
