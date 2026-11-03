@@ -1,47 +1,47 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-02T14:04:00+07:00",
+  "generated_at": "2026-11-03T08:44:50+07:00",
   "title": "Daily Briefing",
   "stories": [
     {
+      "category": "World / Middle East",
+      "title": "Reuters reports a US strike on Iran's Qeshm Island, but confirmation remains limited",
+      "summary": "Reuters says The Wall Street Journal, citing US officials, reported a US strike on Qeshm Island after Iranian state media reported explosions. The island lies beside the Strait of Hormuz. US Central Command had not responded to Reuters at publication, and Washington had publicly signaled that negotiations remained possible. The operation's scale and consequences are not independently established.",
+      "why": "Qeshm's position near the Strait of Hormuz makes any escalation strategically sensitive for energy shipping, insurance and oil markets. Treat the strike as reported, not independently confirmed.",
+      "url": "https://www.reuters.com/world/middle-east/us-struck-irans-qeshm-island-wall-street-journal-reports-2026-11-03/",
+      "image_url": "https://static.independent.co.uk/2026/04/01/10/12/QeshmIsland_NASA.jpeg"
+    },
+    {
+      "category": "US / Politics",
+      "title": "US midterms begin with control of Congress at stake after Supreme Court rejects ballot challenge",
+      "summary": "Americans vote on November 3 in races that will determine control of the House and Senate, alongside governor, state and local contests. The Associated Press reports that the Supreme Court declined to intervene in the administration's bid to set aside roughly 20,000 California ballots flagged as potentially cast by noncitizens. California officials said the list contained errors and could disenfranchise eligible voters. Results were not available at briefing time.",
+      "why": "The outcome will shape the final two years of President Donald Trump's term, including the legislative path for budgets, trade and foreign policy. The ballot dispute also puts election administration and federal-state authority under scrutiny.",
+      "url": "https://apnews.com/article/7dcb866713d99a2f0beaa9c037d09ddd",
+      "image_url": "https://dims.apnews.com/dims4/default/c2a9a8d/2147483647/strip/true/crop/5219x3474%2B0%2B3/resize/320x213%21/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F53%2Ffe%2Fe2668393d72713a870f2a3716b02%2F1a99534c2c4d4b739c92134bf9b0e706"
+    },
+    {
       "category": "Vietnam / Trade",
       "title": "Tesla and Samsung oppose possible new US tariffs on Vietnamese goods",
-      "summary": "Businesses are split as a US trade investigation into Vietnam's intellectual-property practices approaches its November 29 deadline. Tesla, Samsung and several retail and consumer-goods groups oppose additional duties, warning that they could disrupt supply chains and raise costs. US steel, seafood, plywood, solar and wood-product groups are pressing for penalties. The scope and outcome of any new tariffs remain uncertain.",
-      "why": "Vietnam is deeply integrated into US manufacturing and electronics supply chains. The probe could affect exporters, investment decisions and prices well beyond Vietnam.",
+      "summary": "Submissions to the US government show Tesla and Samsung opposing additional duties as a US investigation into Vietnam's intellectual-property practices approaches its November 29 deadline. Retail and consumer-goods groups also warn of supply-chain disruption, while US steel, seafood, plywood, solar and wood-product groups are pressing for penalties. Reuters reports that Vietnam's exports to the US rose 42% in the first eight months of 2026. Whether any new tariffs are proposed, and which sectors they would cover, remains unsettled.",
+      "why": "Vietnam is a major manufacturing and electronics hub for US-facing supply chains. New duties could affect exporters, foreign investment and prices, while the probe may also pressure Vietnam to strengthen IP enforcement.",
       "url": "https://www.reuters.com/legal/litigation/tesla-samsung-oppose-new-us-tariffs-vietnam-probe-deadline-nears-2026-11-02/",
-      "image_url": ""
+      "image_url": "https://mediafr.vietnamplus.vn/images/f7bdd265dc3b1373bc7e1f8305ab7b24e587000ac8a2a588c0b52ac3a75822f36cb6936c531c7385ad17088ae75aaeaf8be00ca267ec1adecf70c62b05453bd65a084f644d317cb866a8c8eb1f755b3a/Samsung_Viet_Nam.jpg.webp"
     },
     {
-      "category": "AI / Cybersecurity",
-      "title": "Researchers report infostealer using Claude to rank victims by financial value",
-      "summary": "Cisco Talos research, reported by Tom's Hardware, describes VOLTA-AUTODOXER, a Windows infostealer that collects passwords, browser sessions, payment details and other personal data, then can send a dossier to an AI model—Claude by default—to assess which victim assets may be most valuable to criminals. The malware can switch models or skip the AI step. The report describes the malware's capabilities; it does not establish how widespread infections are.",
-      "why": "AI is being used not just to write malicious code but to make stolen data more actionable. Users and organisations should protect browser sessions, credentials, API keys and cloud configuration files, and treat infostealer infections as full credential compromises.",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely",
-      "image_url": ""
+      "category": "AI / Business",
+      "title": "Anthropic's IPO filing reveals nearly $900 billion in computing commitments",
+      "summary": "An amended IPO filing shows Anthropic's third-quarter revenue reached $16.96 billion, up 47% from the prior quarter, down from 144% growth in Q2. The company disclosed $895.4 billion in future computing and infrastructure commitments with partners including Amazon and Google. It warned that some partners rely on third-party financing, so contracted capacity could be delayed, repriced, reduced or not delivered if funding becomes unavailable or more expensive. Anthropic also incurred $5 billion in additional compute costs during Q3.",
+      "why": "The figures expose the extraordinary capital and infrastructure required to scale frontier AI. Financing constraints could ripple through data-center construction, cloud providers, chip demand and investor expectations about AI profitability.",
+      "url": "https://www.reuters.com/business/anthropics-quarterly-loss-shrinks-revenue-jumps-ahead-blockbuster-ipo-2026-11-02/",
+      "image_url": "https://media.assettype.com/bdnews24-english/2026-10-03/e6qzapa7/anthropic-logo-031026-01.jpg?w=1024"
     },
     {
-      "category": "World / Transport",
-      "title": "Spain identifies most victims of its deadly high-speed train collision",
-      "summary": "Spanish authorities say 69 people were killed in last week's collision near Urda, including four US citizens and citizens of Japan, Canada and several other countries. All but three victims have now been identified. Investigators are still examining how a Renfe train was authorised to resume at speed while another train remained stopped ahead; the cause and accountability have not been finally established.",
-      "why": "The disaster is one of Europe's deadliest rail accidents this century and has renewed scrutiny of signalling, control-room decisions and maintenance on Spain's high-speed network.",
-      "url": "https://www.theguardian.com/world/2026/nov/02/spain-train-crash-us-citizens-japan-canada-dead",
-      "image_url": ""
-    },
-    {
-      "category": "World / Energy Security",
-      "title": "Qatari LNG carrier reports being struck by unidentified objects in the Gulf",
-      "summary": "Qatar Gas Transport Company says the LNG carrier Al Mayeda was hit by unidentified objects on Friday evening while sailing in the Gulf. No crew injuries or environmental damage were reported, and the vessel was described as safe and operational. The incident comes amid a rise in reported attacks on vessels around the Strait of Hormuz. The objects' origin and responsibility have not been established.",
-      "why": "The Gulf is a critical route for global energy shipments. Further incidents could raise shipping, insurance and energy costs even without a sustained interruption to exports.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/qatar-lng-carrier-struck-by-unidentified-objects-in-gulf",
-      "image_url": ""
-    },
-    {
-      "category": "China / Economy",
-      "title": "China's factory surveys send mixed signals as export-order growth cools",
-      "summary": "China's official manufacturing PMI fell to 49.3 in October, indicating contraction, with new export orders also weakening. A separate private RatingDog/S&P Global survey put manufacturing at 52.0, still in expansion, although export-order growth slowed to a three-month low. The two surveys cover different samples and methodologies, so they should not be treated as directly interchangeable.",
-      "why": "China's industrial demand and export momentum affect regional suppliers, commodity markets and trade tensions. The divergence between surveys suggests a mixed recovery rather than a clear industrial rebound.",
-      "url": "https://apnews.com/article/f1e0e24004da425a1b3c8935b16a245c",
-      "image_url": ""
+      "category": "Science / Space",
+      "title": "NASA expects its Swift space telescope to re-enter Earth's atmosphere on November 4",
+      "summary": "NASA expects the roughly 3,200-pound Neil Gehrels Swift Observatory to re-enter on Wednesday, November 4, around 3:30 a.m. Eastern time, with an uncertainty of about 11 hours in the forecast issued November 2. Most of the spacecraft should burn up, although some fragments may survive. NASA says surviving debris is limited to a latitude band between 20.6 degrees south and 20.6 degrees north, and that harm to people is unlikely. The precise time and location remain uncertain.",
+      "why": "The possible re-entry corridor spans parts of Southeast Asia as well as large ocean areas, making this a timely example of the growing challenge of managing uncontrolled satellite returns. No specific impact point is predicted; NASA and the US Space Force are continuing to update the forecast.",
+      "url": "https://science.nasa.gov/blogs/swift/2026/11/02/nasas-swift-observatory-to-re-enter-atmosphere/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/news/2024/mission-page/Swift_anatomy.jpg?crop=faces%2Cfocalpoint&fit=crop&h=2159&w=3840"
     }
   ]
 }
