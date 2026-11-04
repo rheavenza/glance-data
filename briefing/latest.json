@@ -1,47 +1,47 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-03T08:44:50+07:00",
+  "generated_at": "2026-11-04T09:07:33+07:00",
   "title": "Daily Briefing",
   "stories": [
     {
-      "category": "World / Middle East",
-      "title": "Reuters reports a US strike on Iran's Qeshm Island, but confirmation remains limited",
-      "summary": "Reuters says The Wall Street Journal, citing US officials, reported a US strike on Qeshm Island after Iranian state media reported explosions. The island lies beside the Strait of Hormuz. US Central Command had not responded to Reuters at publication, and Washington had publicly signaled that negotiations remained possible. The operation's scale and consequences are not independently established.",
-      "why": "Qeshm's position near the Strait of Hormuz makes any escalation strategically sensitive for energy shipping, insurance and oil markets. Treat the strike as reported, not independently confirmed.",
-      "url": "https://www.reuters.com/world/middle-east/us-struck-irans-qeshm-island-wall-street-journal-reports-2026-11-03/",
-      "image_url": "https://static.independent.co.uk/2026/04/01/10/12/QeshmIsland_NASA.jpeg"
-    },
-    {
       "category": "US / Politics",
-      "title": "US midterms begin with control of Congress at stake after Supreme Court rejects ballot challenge",
-      "summary": "Americans vote on November 3 in races that will determine control of the House and Senate, alongside governor, state and local contests. The Associated Press reports that the Supreme Court declined to intervene in the administration's bid to set aside roughly 20,000 California ballots flagged as potentially cast by noncitizens. California officials said the list contained errors and could disenfranchise eligible voters. Results were not available at briefing time.",
-      "why": "The outcome will shape the final two years of President Donald Trump's term, including the legislative path for budgets, trade and foreign policy. The ballot dispute also puts election administration and federal-state authority under scrutiny.",
-      "url": "https://apnews.com/article/7dcb866713d99a2f0beaa9c037d09ddd",
-      "image_url": "https://dims.apnews.com/dims4/default/c2a9a8d/2147483647/strip/true/crop/5219x3474%2B0%2B3/resize/320x213%21/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F53%2Ffe%2Fe2668393d72713a870f2a3716b02%2F1a99534c2c4d4b739c92134bf9b0e706"
+      "title": "Democrats notch early midterm wins as control of Congress remains unresolved",
+      "summary": "The Associated Press has called several early Democratic wins: Roy Cooper flipped North Carolina's Republican-held Senate seat, Jon Ossoff retained Georgia, Chris Pappas won New Hampshire, and Democrats flipped a Republican-held House seat in North Carolina. AP's live results say Democrats need three additional net Senate gains for a majority. Control of either chamber remains unresolved as more races are counted; AP race calls are projections, not final state certifications.",
+      "why": "A change in either chamber would reshape the final two years of the Trump administration, affecting legislation, budgets, nominations and congressional oversight.",
+      "url": "https://apnews.com/live/midterm-election-2026",
+      "image_url": "https://dims.apnews.com/dims4/default/adb29ba/2147483647/strip/true/crop/5000x3333%2B0%2B0/resize/599x399%21/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fed%2F79%2F00a26b040f721d01f09492cf2ebe%2Ffb72aa99cece457faae3693f964dad1f"
     },
     {
-      "category": "Vietnam / Trade",
-      "title": "Tesla and Samsung oppose possible new US tariffs on Vietnamese goods",
-      "summary": "Submissions to the US government show Tesla and Samsung opposing additional duties as a US investigation into Vietnam's intellectual-property practices approaches its November 29 deadline. Retail and consumer-goods groups also warn of supply-chain disruption, while US steel, seafood, plywood, solar and wood-product groups are pressing for penalties. Reuters reports that Vietnam's exports to the US rose 42% in the first eight months of 2026. Whether any new tariffs are proposed, and which sectors they would cover, remains unsettled.",
-      "why": "Vietnam is a major manufacturing and electronics hub for US-facing supply chains. New duties could affect exporters, foreign investment and prices, while the probe may also pressure Vietnam to strengthen IP enforcement.",
-      "url": "https://www.reuters.com/legal/litigation/tesla-samsung-oppose-new-us-tariffs-vietnam-probe-deadline-nears-2026-11-02/",
-      "image_url": "https://mediafr.vietnamplus.vn/images/f7bdd265dc3b1373bc7e1f8305ab7b24e587000ac8a2a588c0b52ac3a75822f36cb6936c531c7385ad17088ae75aaeaf8be00ca267ec1adecf70c62b05453bd65a084f644d317cb866a8c8eb1f755b3a/Samsung_Viet_Nam.jpg.webp"
+      "category": "World / Ukraine",
+      "title": "Russian strikes kill at least 31 at Ukraine aid site and hit energy infrastructure",
+      "summary": "The Associated Press reports at least 31 people were killed when a former school used as a humanitarian aid distribution site in Komyshuvakha, Zaporizhzhia region, was struck; more than 45 people remained missing. In a separate overnight barrage, Ukraine said Russia launched 289 drones, 17 ballistic missiles and 59 cruise missiles across nine regions. Ukraine's DTEK said three thermal power plants halted operations. Moscow said it targeted military units and energy facilities; details of the aid-site attack are reported primarily through Ukrainian officials.",
+      "why": "The attacks deepen the civilian toll and threaten electricity and heating as winter approaches. They also cast doubt on prospects for the US-brokered Russia-Ukraine talks scheduled for November 10–11 in Abu Dhabi.",
+      "url": "https://apnews.com/article/264da8725dc2bb1f0039a698a59af9fc",
+      "image_url": "https://dims.apnews.com/dims4/default/c6b143d/2147483647/strip/true/crop/2000x1333%2B0%2B0/resize/599x399%21/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F76%2Fc8%2F6e0ab56cb5cd0abc55c223f2530d%2Fa21fea4331b44de9bdb03e0f540dfff3"
     },
     {
-      "category": "AI / Business",
-      "title": "Anthropic's IPO filing reveals nearly $900 billion in computing commitments",
-      "summary": "An amended IPO filing shows Anthropic's third-quarter revenue reached $16.96 billion, up 47% from the prior quarter, down from 144% growth in Q2. The company disclosed $895.4 billion in future computing and infrastructure commitments with partners including Amazon and Google. It warned that some partners rely on third-party financing, so contracted capacity could be delayed, repriced, reduced or not delivered if funding becomes unavailable or more expensive. Anthropic also incurred $5 billion in additional compute costs during Q3.",
-      "why": "The figures expose the extraordinary capital and infrastructure required to scale frontier AI. Financing constraints could ripple through data-center construction, cloud providers, chip demand and investor expectations about AI profitability.",
-      "url": "https://www.reuters.com/business/anthropics-quarterly-loss-shrinks-revenue-jumps-ahead-blockbuster-ipo-2026-11-02/",
-      "image_url": "https://media.assettype.com/bdnews24-english/2026-10-03/e6qzapa7/anthropic-logo-031026-01.jpg?w=1024"
+      "category": "AI / Cybersecurity",
+      "title": "Binance details $6.3 billion hack that began with a fake job interview",
+      "summary": "Binance says the October 29 theft from its internet-connected wallets followed a months-long intrusion: a tampered developer tool was downloaded in June, then a second engineer was lured into installing malicious code during a fake recruitment process in September. Attackers later used compromised computers, stolen credentials and an internal AI tool to reach wallet systems. Binance says about $2.85 billion in assets were frozen or intercepted. The FBI attributes the operation to a North Korean hacking group; Pyongyang denies involvement.",
+      "why": "The incident shows how social engineering, compromised developer tooling and access to internal systems can combine into a catastrophic breach. Engineering teams should verify software sources, isolate development environments and tightly control wallet-signing credentials.",
+      "url": "https://www.reuters.com/world/binance-says-hackers-used-fake-job-interview-compromise-computer-before-63-2026-11-03/",
+      "image_url": "https://media.yellow.com/uploads/Binance_leak_ff7ad84ef3.jpg"
     },
     {
-      "category": "Science / Space",
-      "title": "NASA expects its Swift space telescope to re-enter Earth's atmosphere on November 4",
-      "summary": "NASA expects the roughly 3,200-pound Neil Gehrels Swift Observatory to re-enter on Wednesday, November 4, around 3:30 a.m. Eastern time, with an uncertainty of about 11 hours in the forecast issued November 2. Most of the spacecraft should burn up, although some fragments may survive. NASA says surviving debris is limited to a latitude band between 20.6 degrees south and 20.6 degrees north, and that harm to people is unlikely. The precise time and location remain uncertain.",
-      "why": "The possible re-entry corridor spans parts of Southeast Asia as well as large ocean areas, making this a timely example of the growing challenge of managing uncontrolled satellite returns. No specific impact point is predicted; NASA and the US Space Force are continuing to update the forecast.",
-      "url": "https://science.nasa.gov/blogs/swift/2026/11/02/nasas-swift-observatory-to-re-enter-atmosphere/",
-      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/news/2024/mission-page/Swift_anatomy.jpg?crop=faces%2Cfocalpoint&fit=crop&h=2159&w=3840"
+      "category": "Vietnam / Economy",
+      "title": "Vietnam's 10-month trade turnover tops $1 trillion for the first time",
+      "summary": "Vietnam's goods trade reached $1,010.55 billion in January–October 2026, up 32.3% year over year, according to figures from the National Statistics Office reported by VOV. Exports totalled $499.24 billion, up 27.5%, while imports reached $511.31 billion, up 37.4%, leaving a $12.07 billion trade deficit compared with a $19.49 billion surplus in the same period last year. October alone recorded a $7.31 billion surplus.",
+      "why": "The milestone underlines Vietnam's growing role in global manufacturing and supply chains. But faster import growth and the shift to a cumulative trade deficit highlight the importance of import costs, production inputs and the contribution of domestic firms versus foreign-invested exporters.",
+      "url": "https://vov.gov.vn/xuat-nhap-khau-dat-muc-cao-nhat-lich-su-can-can-thuong-mai-dao-chieu-dtnew-1172663",
+      "image_url": "https://admin.vov.gov.vn/UploadFolder/KhoTin/Images/UploadFolder/VOVVN/Images/sites/default/files/styles/large/public/2026-09/xuat-nhap-khau-qua-khu-vuc-cang-hai-phong-202620260513155541.jpg"
+    },
+    {
+      "category": "AI / Infrastructure",
+      "title": "Bull and Schwarz Digits plan a Europe-controlled AI and cloud stack",
+      "summary": "French computing company Bull and Germany's Schwarz Digits signed a memorandum of understanding to develop AI and cloud infrastructure operating under European jurisdiction. Schwarz Digits would provide its STACKIT cloud platform, while Bull would manufacture AI and high-performance-computing servers in Europe. The plan includes bringing Bull's AI platform to STACKIT and co-designing servers around Open Compute Project standards, with possible future SAP and quantum-computing work. This is a preliminary agreement, not an operational service; financial terms were not disclosed.",
+      "why": "The partnership is part of Europe's effort to build AI capacity for businesses and public institutions without placing sensitive infrastructure and data outside European legal control. Its impact will depend on actual deployment, price, compute capacity and software support.",
+      "url": "https://www.bull.com/fr/communiques-de-presse/bull-and-schwarz-digits-a-franco-german-alliance-for-europes-digital-sovereignty",
+      "image_url": "https://media.licdn.com/dms/image/v2/D4E22AQGZSijWCToZUQ/feedshare-shrink_1280/B4EZqbh6aIJ0As-/0/1763545950531?e=2147483647&t=jNzLcMGFpxm8v_NyCl2U0tKT0cJfxeiDohJ--0ovX2s&v=beta"
     }
   ]
 }
