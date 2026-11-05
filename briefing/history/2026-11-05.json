@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-05T08:50:52+07:00",
+  "title": "Daily Briefing",
+  "stories": [
+    {
+      "category": "US / Politics",
+      "title": "Democrats win both chambers of Congress in sweeping midterm rebuke to Trump",
+      "summary": "The Associated Press and Reuters report that Democrats have won control of both the House and Senate in the November 3 midterms, flipping at least seven Republican-held Senate seats and making major gains in House and governor races. Voters' frustration over living costs, inflation, the Iran war and corruption were prominent factors in exit polling. Some individual races still await final counts or certification, but AP has called control of both chambers. President Trump acknowledged that the Iran war contributed to Republican losses while defending his decision to continue it.",
+      "why": "Divided government will return in January 2027, limiting Trump's legislative agenda and giving Democrats greater power over investigations, appointments and oversight. The result could also affect US policy on Iran, Ukraine, trade and technology regulation.",
+      "url": "https://apnews.com/article/f126e12e05b579a327b98481c0ae2226",
+      "image_url": "https://dims.apnews.com/dims4/default/7842328/2147483647/strip/true/crop/3600x2400%2B0%2B0/resize/599x399%21/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5a%2F98%2F9234b1897541397c9945bf78b433%2F0441c3d1d6324c6aa30854080a542901"
+    },
+    {
+      "category": "World / Ukraine",
+      "title": "Death toll reaches 40 after Russian strike on Ukrainian aid site as attacks disrupt Kyiv power",
+      "summary": "The Associated Press reports 40 people killed after Russian guided bombs struck a former school and underground shelter used to distribute humanitarian aid in Komyshuvakha, Zaporizhzhia region. Ukrainian President Volodymyr Zelenskyy said about 30 more people could still be buried; Reuters separately quoted a regional official reporting 59 missing. Overnight Russian attacks also caused hours-long power and water outages across Kyiv and surrounding areas. Russia says it targeted Ukrainian military units near the village; Ukraine says civilians had gathered for aid. Both sides deny deliberately targeting civilians.",
+      "why": "The strike adds to the civilian toll while repeated attacks on energy infrastructure threaten electricity, water and heating as winter approaches. US-brokered peace talks are scheduled to resume in Abu Dhabi on November 10–11.",
+      "url": "https://apnews.com/article/37dc5e85a5c8c135996bc2720e0674d9",
+      "image_url": "https://i.guim.co.uk/img/media/5742e3153e85ccc85f293c502211f3788ea3b88c/38_0_1359_1087/master/1359.jpg?crop=none&dpr=1&s=none&width=445"
+    },
+    {
+      "category": "AI / Developer Tools",
+      "title": "OpenAI to acquire Pierre, bringing Git storage and review tooling deeper into Codex",
+      "summary": "OpenAI announced it will acquire Pierre Computer Company, whose Trees and Diffs libraries already power file navigation and code review in the Codex app. After the deal closes, OpenAI plans to bring features from Pierre's Git-based Code Storage service into Codex. OpenAI says Pierre's open-source projects will remain open source and existing Code Storage customers can continue using the service after closing. Financial terms were not disclosed; the deal remains subject to customary closing conditions and regulatory approvals.",
+      "why": "As coding agents create more changes in parallel, the competitive battleground is expanding from code generation into source control, history and review. The deal could make Codex a more integrated development environment, while the open-source pledge and continued service access will matter to existing users.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre/",
+      "image_url": "https://vayaweb.es/img/blog/codex-app.jpg"
+    },
+    {
+      "category": "PC Hardware / Gaming",
+      "title": "AMD posts record $13.4 billion quarter as AI data-center sales nearly double, while gaming revenue falls",
+      "summary": "AMD reported record third-quarter 2026 revenue of $13.4 billion, up 45% year over year. Data-center revenue rose 97% to $8.5 billion, driven by EPYC server CPUs and Instinct AI GPUs; the company forecast about $17 billion in fourth-quarter revenue. In contrast, AMD's gaming business recorded $773 million, down 40% year over year, due to lower semi-custom and graphics revenue. The gaming figure includes console semi-custom chips as well as graphics, so it is not a measure of PC graphics-card sales alone.",
+      "why": "The results show how strongly AI infrastructure is reshaping chipmakers' business mix. The contrast with gaming is a useful signal for the PC and console supply chain, although AMD's results alone do not establish that consumer GPU prices will rise.",
+      "url": "https://newsroom.amd.com/news/amd-reports-third-quarter-2026-earnings/",
+      "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1PPPabtr8OI/v1/-1x-1.webp"
+    },
+    {
+      "category": "Science / Space",
+      "title": "ExoMars detects hydrogen chloride above Martian fissures, adding evidence for possible ongoing volcanism",
+      "summary": "A study published in Science Advances reports seasonal spikes of hydrogen chloride localized above fissures on the northern flank of Mars' Alba Mons volcano. ESA's ExoMars Trace Gas Orbiter detected the gas, while its CaSSIS camera revealed narrow fissures and surface discoloration that may indicate vents. Researchers propose that magmatic gases could be escaping from a dormant underground system, but other chemical explanations remain possible. No fresh lava flow or eruption has been observed, and the findings are not evidence of life.",
+      "why": "If the interpretation holds, Mars may retain more internal heat and geological activity than previously assumed. The fissures could help scientists identify subsurface environments worth investigating for past or present habitability.",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aeb9422",
+      "image_url": "https://scx1.b-cdn.net/csz/news/800a/2026/european-orbiter-detec-6.jpg"
+    }
+  ]
+}
