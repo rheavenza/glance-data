@@ -1,47 +1,47 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-06T08:25:40+07:00",
+  "generated_at": "2026-11-07T09:22:23+07:00",
   "title": "Daily Briefing",
   "stories": [
     {
-      "category": "AI / Markets & Semiconductors",
-      "title": "AI stock selloff spreads from Wall Street to South Korea's chip giants",
-      "summary": "U.S. stocks suffered their worst session since April 2025: the S&P 500 fell 4.4%, the Nasdaq 5.5%, and the Philadelphia Semiconductor Index 12.2%. Investors questioned AI infrastructure valuations and returns, while also weighing the possibility that political scrutiny and local opposition could slow data-centre construction. On Friday morning, South Korea's KOSPI fell 8.6% and triggered a 20-minute circuit breaker; Samsung fell 10% and SK Hynix 13%. The market moves are confirmed; the explanations are investor concerns, not proof that AI demand has collapsed or that new restrictions have been enacted.",
-      "why": "The AI build-out links chipmakers, cloud providers, power suppliers and data-centre construction across global markets. The selloff shows investors are repricing the cost, financing, policy and return-on-investment risks of that expansion.",
-      "url": "https://www.reuters.com/world/asia-pacific/south-korea-stocks-plunge-8-circuit-breaker-triggered-chip-shares-tumble-2026-11-06/",
-      "image_url": "https://dims.apnews.com/dims4/default/98bb4b5/2147483647/strip/true/crop/7558x5038%2B0%2B0/resize/599x399%21/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5f%2F5f%2F7473a9ee2becb3a4c2b894c22260%2F37f3214811e140e69eb0e6052a37c975"
+      "category": "AI / Infrastructure & Society",
+      "title": "European backlash against AI data centres reaches Microsoft site in Amsterdam",
+      "summary": "More than 100 activists entered a Microsoft data-centre construction site in Amsterdam on 6 November; some climbed cranes and lit flares, and police said an officer was slightly injured. Separate Stop Dirty Data Centres actions were planned in 16 countries. Campaigners cite electricity and water demand, land use, environmental oversight and limited local consultation. Microsoft said it respects peaceful protest but does not condone unlawful or unsafe entry; site owner Pure Data Centres offered dialogue. The protest is verified; the project has not been reported cancelled.",
+      "why": "AI expansion depends not only on chips and capital but also on power, water, permits and local acceptance. Growing opposition could affect project approvals, timelines and how data-centre developers engage with communities.",
+      "url": "https://www.reuters.com/world/europe/activists-breach-microsoft-data-centre-construction-site-protests-spread-europe-2026-11-06/",
+      "image_url": "https://i.guim.co.uk/img/media/414d7d67ea2545c80811d6232dffc8abf84afb3f/188_0_1702_1362/master/1702.jpg?crop=none&dpr=1&s=none&width=465"
     },
     {
-      "category": "World / Ukraine",
-      "title": "Ukraine reports 43 killed at aid site as airstrikes continue alongside peace talks",
-      "summary": "Russia and Ukraine exchanged drone and air attacks as two days of Brussels talks on Ukraine's postwar reconstruction, 2027 funding and security guarantees concluded. President Volodymyr Zelenskyy said 43 people had been confirmed dead after Russian guided bombs hit a school and shelter used as a humanitarian aid hub in Komyshuvakha; one previously missing person was found alive, while rescue teams continued searching. Russia said it targeted military units in the area. U.S.-Ukraine-Russia talks are expected in Abu Dhabi on November 10–11; descriptions of the Brussels meetings as productive do not amount to a ceasefire agreement.",
-      "why": "The civilian toll and continuing attacks on infrastructure raise the stakes ahead of winter. The next round of talks could clarify security guarantees and reconstruction funding, but a diplomatic breakthrough remains uncertain.",
-      "url": "https://apnews.com/article/russia-ukraine-war-airstrikes-negotiations-kushner-0b975a30f862731346e7e1d098a8d538",
-      "image_url": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/e/33/e335d1d8-6ebf-523b-8afd-7bb538c512e3/6aebe495a4772.image.jpg?resize=200%2C133"
+      "category": "AI / Research & Safety",
+      "title": "METR estimates Anthropic is improving model capabilities about twice as fast",
+      "summary": "After an 11-week high-access review at Anthropic, AI safety nonprofit METR estimates that the company's model capabilities on well-specified tasks have been advancing at around twice the rate seen between March 2024 and October 2025. Its benchmark index grew an estimated 1.9 times faster since October 2025, with a 95% confidence interval of 1.5–2.8. METR thinks AI-assisted research accounts for much of the current acceleration, but says AI is not yet making major fully autonomous contributions to the most important parts of model training. Anthropic redacted much of the evidence METR found most informative, and the findings may not generalise to less structured real-world tasks.",
+      "why": "If AI tools accelerate the research that builds better AI, capability gains could compound and safety evaluations may struggle to keep pace. The uncertainty, task scope and redactions are central limitations—not minor caveats.",
+      "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+      "image_url": "https://dims.apnews.com/dims4/default/4ea901b/2147483647/strip/true/crop/4497x2998%2B0%2B0/resize/599x399%21/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F09%2Fe7%2F1493e80dcee71ea1c00881ce4c16%2Fce1930ff501d4881b597c2a66e7fe968"
     },
     {
-      "category": "AI / Developer Tools / Open Source",
-      "title": "A wave of coding-agent deals puts developer workflow tools in the spotlight",
-      "summary": "Three developer-tool moves announced on November 4 point to consolidation around AI coding agents. OpenAI agreed to acquire Pierre, whose Trees and Diffs libraries already support file navigation and code review in Codex, and plans to bring Pierre's Git-based Code Storage features into Codex. Meta confirmed that Conductor is joining it; Conductor Cloud becomes read-only on November 13 and shuts down on November 20. Factory announced that HumanLayer is joining and says it will open-source HumanLayer. Financial terms were not disclosed; the OpenAI deal remains subject to closing conditions and regulatory approvals.",
-      "why": "Competition is moving beyond model quality into the surrounding engineering workflow: parallel agents, Git history, code review and team collaboration. Developers should watch service-continuity dates and whether the open-source commitments are delivered.",
-      "url": "https://openai.com/index/openai-to-acquire-pierre/",
-      "image_url": "https://www.conductor.build/conductor-app-hero-dark.webp"
-    },
-    {
-      "category": "Vietnam / Consumer & Gig Economy",
-      "title": "Grab agrees to cap combined fees and reimburse some drivers in Vietnam",
-      "summary": "Vietnam's competition commission says Grab has agreed to reduce some passenger and driver fees, cap its combined fees at no more than 32% of the amount paid by passengers, and reimburse about VND3.9 billion to drivers affected by excessive deductions. The watchdog said about 0.13% of trips since 2024 had deductions above 35%, partly due to algorithm errors or supply-and-demand fluctuations. Grab also plans VND912 billion in fourth-quarter driver incentives and operating-cost support, plus VND1.8 trillion in passenger promotions. Authorities say they will monitor implementation.",
-      "why": "The changes could improve fee transparency and driver take-home pay, but the practical effect depends on how the cap is calculated, whether reimbursements reach affected drivers and how consistently the watchdog enforces the commitments.",
-      "url": "https://www.reuters.com/world/asia-pacific/grab-agrees-driver-fee-cuts-and-deduction-cap-vietnam-watchdog-says-2026-11-05/",
-      "image_url": "https://ktmt.vnmediacdn.com/images/2025/12/26/120-1766718757-grab.jpg"
+      "category": "US Politics",
+      "title": "Trump names Stephen Miller White House chief of staff after midterm losses",
+      "summary": "President Donald Trump announced on 6 November that Stephen Miller will replace Susie Wiles as White House chief of staff, effective 9 November. Miller is a longtime adviser and a key architect of the administration's hard-line immigration agenda. The appointment comes days after Republicans lost control of Congress in the midterm elections. Trump said the change was not a response to the result; Reuters reports it signals no policy rethink and could mean greater reliance on executive action as a Democratic-led Congress prepares investigations.",
+      "why": "The chief of staff controls access to the president and coordinates White House operations. Miller's appointment points to a potentially more confrontational final two years, particularly on immigration, executive power and congressional oversight.",
+      "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/",
+      "image_url": "https://dims.apnews.com/dims4/default/cdfea3d/2147483647/strip/true/crop/7093x4729%2B0%2B0/resize/599x399%21/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F42%2F61%2Fcc8cf73b5d33e2b240c7c44e9e6c%2Fbd6d8ad12f7f4e73a2998002b2dd2f4e"
     },
     {
       "category": "Science / Space",
-      "title": "Gas detected above Martian fissures hints that Alba Mons may not be fully dormant",
-      "summary": "The ExoMars Trace Gas Orbiter detected hydrogen chloride above fissures on the northern flank of Mars' Alba Mons volcano. Researchers say seasonal spikes are most consistent with volcanic seepage, possibly from a still-warm underground magma system; seasonal thawing may allow trapped gases to escape through ice-blocked fissures. This is evidence consistent with ongoing magmatic processes, not proof of a fresh eruption. Other chemical explanations remain possible, and the finding is not evidence of life.",
-      "why": "If confirmed, the result would change scientists' picture of Mars' internal heat and help identify subsurface environments that could be relevant to future habitability research. The potential hydrothermal-life connection remains speculative.",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aeb9422",
-      "image_url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2022/04/perspective_view_of_tantalus_fossae/24036097-1-eng-GB/251560/image-thumb__251560__fit_large/Perspective_view_of_Tantalus_Fossae.154d1c22.webp"
+      "title": "ExoMars detects gas above Martian fissures, hinting at lingering volcanic activity",
+      "summary": "The European Space Agency's ExoMars Trace Gas Orbiter detected seasonal hydrogen chloride spikes above fissures on Alba Mons. Researchers say volcanic seepage from a dormant underground magma system is the most likely explanation; winter ice may seal the fissures before thawing allows gas to escape in early summer. No eruption or new lava flow has been observed, and the finding is not evidence of life.",
+      "why": "If the interpretation holds, Mars retains more internal heat than a fully dormant world would. The fissures could become useful targets for studying subsurface geology and possible hydrothermal environments.",
+      "url": "https://www.esa.int/cs/articles/news-media/news/european-orbiter-detects-hints-of-volcanic-activity-on-mars",
+      "image_url": "https://media.esa.int/global/public/common/image/2026/11/402322/image-thumb__402322__fit_large/hcl-context-hrsccolourmos-hrsc-moladtm-v2-2-1793793899.c1b3b112.webp"
+    },
+    {
+      "category": "Gaming / Linux / Preservation",
+      "title": "GOG announces a Linux version of Galaxy alongside preservation and community plans",
+      "summary": "At its first 18th-anniversary showcase, GOG said its Galaxy client is officially heading to Linux and that the Windows and Mac clients will also be overhauled. Galaxy will remain optional, with offline installers continuing to be available. GOG also announced a closed beta for GOG Social, a Retrovibe indie-publishing partnership, and more than 1,700 technical fixes across over 300 classic games in its Preservation Program. The announcement did not specify a Linux release date or detailed feature-parity commitments.",
+      "why": "A first-party Linux client could reduce reliance on third-party launchers such as Heroic and Lutris. Preservation work and offline installers also reinforce GOG's DRM-free positioning; the practical test will be Linux game support, Proton integration and client quality.",
+      "url": "https://www.gog.com/en/news/we_re_celebrating_18_years_with_the_first_gog_showcase_restored_wing_commander_prophecy_gog_galaxy_announcements_and_more",
+      "image_url": "https://www.4gamer.net/games/999/G999901/20261106019/TN/008.jpg"
     }
   ]
 }
