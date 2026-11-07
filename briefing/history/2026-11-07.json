@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-07T09:22:23+07:00",
+  "title": "Daily Briefing",
+  "stories": [
+    {
+      "category": "AI / Infrastructure & Society",
+      "title": "European backlash against AI data centres reaches Microsoft site in Amsterdam",
+      "summary": "More than 100 activists entered a Microsoft data-centre construction site in Amsterdam on 6 November; some climbed cranes and lit flares, and police said an officer was slightly injured. Separate Stop Dirty Data Centres actions were planned in 16 countries. Campaigners cite electricity and water demand, land use, environmental oversight and limited local consultation. Microsoft said it respects peaceful protest but does not condone unlawful or unsafe entry; site owner Pure Data Centres offered dialogue. The protest is verified; the project has not been reported cancelled.",
+      "why": "AI expansion depends not only on chips and capital but also on power, water, permits and local acceptance. Growing opposition could affect project approvals, timelines and how data-centre developers engage with communities.",
+      "url": "https://www.reuters.com/world/europe/activists-breach-microsoft-data-centre-construction-site-protests-spread-europe-2026-11-06/",
+      "image_url": "https://i.guim.co.uk/img/media/414d7d67ea2545c80811d6232dffc8abf84afb3f/188_0_1702_1362/master/1702.jpg?crop=none&dpr=1&s=none&width=465"
+    },
+    {
+      "category": "AI / Research & Safety",
+      "title": "METR estimates Anthropic is improving model capabilities about twice as fast",
+      "summary": "After an 11-week high-access review at Anthropic, AI safety nonprofit METR estimates that the company's model capabilities on well-specified tasks have been advancing at around twice the rate seen between March 2024 and October 2025. Its benchmark index grew an estimated 1.9 times faster since October 2025, with a 95% confidence interval of 1.5–2.8. METR thinks AI-assisted research accounts for much of the current acceleration, but says AI is not yet making major fully autonomous contributions to the most important parts of model training. Anthropic redacted much of the evidence METR found most informative, and the findings may not generalise to less structured real-world tasks.",
+      "why": "If AI tools accelerate the research that builds better AI, capability gains could compound and safety evaluations may struggle to keep pace. The uncertainty, task scope and redactions are central limitations—not minor caveats.",
+      "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+      "image_url": "https://dims.apnews.com/dims4/default/4ea901b/2147483647/strip/true/crop/4497x2998%2B0%2B0/resize/599x399%21/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F09%2Fe7%2F1493e80dcee71ea1c00881ce4c16%2Fce1930ff501d4881b597c2a66e7fe968"
+    },
+    {
+      "category": "US Politics",
+      "title": "Trump names Stephen Miller White House chief of staff after midterm losses",
+      "summary": "President Donald Trump announced on 6 November that Stephen Miller will replace Susie Wiles as White House chief of staff, effective 9 November. Miller is a longtime adviser and a key architect of the administration's hard-line immigration agenda. The appointment comes days after Republicans lost control of Congress in the midterm elections. Trump said the change was not a response to the result; Reuters reports it signals no policy rethink and could mean greater reliance on executive action as a Democratic-led Congress prepares investigations.",
+      "why": "The chief of staff controls access to the president and coordinates White House operations. Miller's appointment points to a potentially more confrontational final two years, particularly on immigration, executive power and congressional oversight.",
+      "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/",
+      "image_url": "https://dims.apnews.com/dims4/default/cdfea3d/2147483647/strip/true/crop/7093x4729%2B0%2B0/resize/599x399%21/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F42%2F61%2Fcc8cf73b5d33e2b240c7c44e9e6c%2Fbd6d8ad12f7f4e73a2998002b2dd2f4e"
+    },
+    {
+      "category": "Science / Space",
+      "title": "ExoMars detects gas above Martian fissures, hinting at lingering volcanic activity",
+      "summary": "The European Space Agency's ExoMars Trace Gas Orbiter detected seasonal hydrogen chloride spikes above fissures on Alba Mons. Researchers say volcanic seepage from a dormant underground magma system is the most likely explanation; winter ice may seal the fissures before thawing allows gas to escape in early summer. No eruption or new lava flow has been observed, and the finding is not evidence of life.",
+      "why": "If the interpretation holds, Mars retains more internal heat than a fully dormant world would. The fissures could become useful targets for studying subsurface geology and possible hydrothermal environments.",
+      "url": "https://www.esa.int/cs/articles/news-media/news/european-orbiter-detects-hints-of-volcanic-activity-on-mars",
+      "image_url": "https://media.esa.int/global/public/common/image/2026/11/402322/image-thumb__402322__fit_large/hcl-context-hrsccolourmos-hrsc-moladtm-v2-2-1793793899.c1b3b112.webp"
+    },
+    {
+      "category": "Gaming / Linux / Preservation",
+      "title": "GOG announces a Linux version of Galaxy alongside preservation and community plans",
+      "summary": "At its first 18th-anniversary showcase, GOG said its Galaxy client is officially heading to Linux and that the Windows and Mac clients will also be overhauled. Galaxy will remain optional, with offline installers continuing to be available. GOG also announced a closed beta for GOG Social, a Retrovibe indie-publishing partnership, and more than 1,700 technical fixes across over 300 classic games in its Preservation Program. The announcement did not specify a Linux release date or detailed feature-parity commitments.",
+      "why": "A first-party Linux client could reduce reliance on third-party launchers such as Heroic and Lutris. Preservation work and offline installers also reinforce GOG's DRM-free positioning; the practical test will be Linux game support, Proton integration and client quality.",
+      "url": "https://www.gog.com/en/news/we_re_celebrating_18_years_with_the_first_gog_showcase_restored_wing_commander_prophecy_gog_galaxy_announcements_and_more",
+      "image_url": "https://www.4gamer.net/games/999/G999901/20261106019/TN/008.jpg"
+    }
+  ]
+}
